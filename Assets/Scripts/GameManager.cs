@@ -11,7 +11,7 @@ public class GameManager : MonoBehaviour
     public int score {get; private set; }
     public int lives {get; private set; }
 
-    private void Start()
+    public void Start()
     {
         NewGame();
     }
