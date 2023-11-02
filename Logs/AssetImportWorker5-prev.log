@@ -1,0 +1,1100 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.10f1 (ff3792e53c62) revision 16725906'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Professional' Language: 'en' Physical Memory: 31894 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+L:\Unity\2022.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker5
+-projectPath
+L:/School/Unity Projects/PresentPanic
+-logFile
+Logs/AssetImportWorker5.log
+-srvPort
+51277
+Successfully changed project path to: L:/School/Unity Projects/PresentPanic
+L:/School/Unity Projects/PresentPanic
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [14756] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 963043247 [EditorId] 963043247 [Version] 1048832 [Id] WindowsEditor(7,Mark-85) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [14756] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 963043247 [EditorId] 963043247 [Version] 1048832 [Id] WindowsEditor(7,Mark-85) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 23 workers.
+Refreshing native plugins compatible for Editor in 6.94 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.10f1 (ff3792e53c62)
+[Subsystems] Discovering subsystems at path L:/Unity/2022.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path L:/School/Unity Projects/PresentPanic/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4070 Ti (ID=0x2782)
+    Vendor:   NVIDIA
+    VRAM:     12010 MB
+    Driver:   31.0.15.3623
+Initialize mono
+Mono path[0] = 'L:/Unity/2022.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'L:/Unity/2022.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'L:/Unity/2022.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56852
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: L:/Unity/2022.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001932 seconds.
+- Loaded All Assemblies, in  0.226 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.158 seconds
+Domain Reload Profiling: 384ms
+	BeginReloadAssembly (72ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (90ms)
+		LoadAssemblies (71ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (89ms)
+			TypeCache.Refresh (88ms)
+				TypeCache.ScanAssembly (79ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (159ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (121ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (1ms)
+			ProcessInitializeOnLoadAttributes (81ms)
+			ProcessInitializeOnLoadMethodAttributes (28ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.398 seconds
+Refreshing native plugins compatible for Editor in 2.40 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.388 seconds
+Domain Reload Profiling: 785ms
+	BeginReloadAssembly (98ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (18ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (24ms)
+	LoadAllAssembliesAndSetupDomain (244ms)
+		LoadAssemblies (189ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (110ms)
+			TypeCache.Refresh (91ms)
+				TypeCache.ScanAssembly (80ms)
+			ScanForSourceGeneratedMonoScriptInfo (17ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (388ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (280ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (44ms)
+			ProcessInitializeOnLoadAttributes (204ms)
+			ProcessInitializeOnLoadMethodAttributes (23ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 3.06 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4069 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 63 unused Assets / (60.9 KB). Loaded Objects now: 4532.
+Memory consumption went from 142.1 MB to 142.1 MB.
+Total: 3.375300 ms (FindLiveObjects: 0.278400 ms CreateObjectMapping: 0.057100 ms MarkObjects: 2.918600 ms  DeleteObjects: 0.120300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 9138.609455 seconds.
+  path: Assets/Tiles/newtiles_113.asset
+  artifactKey: Guid(99c19ba281e8a89498cf8a25370fcf7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_113.asset using Guid(99c19ba281e8a89498cf8a25370fcf7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1296be27590718847a17ff9ef11bee0') in 0.020995 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Tiles/newtiles_315.asset
+  artifactKey: Guid(b002b9359c474684799d72d8afee9f89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_315.asset using Guid(b002b9359c474684799d72d8afee9f89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f9d0f70545a624fc981e9ef221fa7a1') in 0.001672 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Tiles/newtiles_137.asset
+  artifactKey: Guid(7bd29528f7a41af4ca29e79dcce8c5e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_137.asset using Guid(7bd29528f7a41af4ca29e79dcce8c5e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39c6d6fd379db2b5ab3f975ab99e87fc') in 0.001174 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000006 seconds.
+  path: Assets/Tiles/newtiles_414.asset
+  artifactKey: Guid(f839cfb775226ed469f9aed7a7cf0707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_414.asset using Guid(f839cfb775226ed469f9aed7a7cf0707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2af79eedc42e1c1af0e871ba6a1d608') in 0.000976 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Tiles/newtiles_445.asset
+  artifactKey: Guid(1b584007afe76a5429aa7b201ba6baeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_445.asset using Guid(1b584007afe76a5429aa7b201ba6baeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2afa2ca0f4fab8f207c65b264b3b95e1') in 0.001520 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Tiles/newtiles_54.asset
+  artifactKey: Guid(0edec7085c6b3594f8a49a6502987990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_54.asset using Guid(0edec7085c6b3594f8a49a6502987990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63ea83eabc618b465d2c47d4ab3f678d') in 0.000772 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Tiles/newtiles_194.asset
+  artifactKey: Guid(7af38e7faf43a804a9515aa17b92e716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_194.asset using Guid(7af38e7faf43a804a9515aa17b92e716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5997607a4fade31ee3e4ec9c99b3feab') in 0.001095 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Tiles/newtiles_179.asset
+  artifactKey: Guid(7688fbea16102f54bbb0e5c171812367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_179.asset using Guid(7688fbea16102f54bbb0e5c171812367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1117dc7cbb903fed37a167cf42dde0a') in 0.000705 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Tiles/newtiles_347.asset
+  artifactKey: Guid(217d255869a1b6a41af08a20015931be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_347.asset using Guid(217d255869a1b6a41af08a20015931be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '751479491983578b3bef68622b58b481') in 0.000673 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Tiles/newtiles_117.asset
+  artifactKey: Guid(0a034533e4bdfbf4aad66dded48b3071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_117.asset using Guid(0a034533e4bdfbf4aad66dded48b3071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07ebfd9c5ea2619f1a5f8c818283b10e') in 0.000641 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000005 seconds.
+  path: Assets/Tiles/newtiles_192.asset
+  artifactKey: Guid(59739e719e7c7e34784886a63fbd9ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_192.asset using Guid(59739e719e7c7e34784886a63fbd9ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c4a10f7b8408c28507945b1b735ecf3') in 0.000630 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000004 seconds.
+  path: Assets/Tiles/newtiles_314.asset
+  artifactKey: Guid(78082fb7a3f2dce4e86358c400f3f626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_314.asset using Guid(78082fb7a3f2dce4e86358c400f3f626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faa952a16288f46da45afbb4222c9c8d') in 0.000632 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000005 seconds.
+  path: Assets/Tiles/newtiles_93.asset
+  artifactKey: Guid(6f6614841fcd3f14ba888249a9e724e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_93.asset using Guid(6f6614841fcd3f14ba888249a9e724e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02aa70274e0d7d261d3597597c0bac22') in 0.000647 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Tiles/newtiles_516.asset
+  artifactKey: Guid(d82a19ce956e10a40ab3dc2b82e677e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_516.asset using Guid(d82a19ce956e10a40ab3dc2b82e677e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99ec0eb397aaa5a4605161e1e7c05835') in 0.001048 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Tiles/newtiles_124.asset
+  artifactKey: Guid(73e967b278ebc5748afa18792ca52f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_124.asset using Guid(73e967b278ebc5748afa18792ca52f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca138ecd2f81151bf3bb1091fcdd8496') in 0.000689 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000005 seconds.
+  path: Assets/Tiles/newtiles_169.asset
+  artifactKey: Guid(1835c3a524d460d4b99ffd4db22da217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_169.asset using Guid(1835c3a524d460d4b99ffd4db22da217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c9205c533a32d58028d6738c3b622f2') in 0.000641 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Tiles/newtiles_56.asset
+  artifactKey: Guid(59f05ac2f795bb84da2ae9451f87465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_56.asset using Guid(59f05ac2f795bb84da2ae9451f87465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da00e83fe512f2b6dd9fe8b6bdfdae52') in 0.000638 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Tiles/newtiles_413.asset
+  artifactKey: Guid(012a88a73e0052e45bd628e47cd39f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_413.asset using Guid(012a88a73e0052e45bd628e47cd39f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e07b0620a6c9343964a0fefa00d7a0b') in 0.001083 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000007 seconds.
+  path: Assets/Tiles/newtiles_248.asset
+  artifactKey: Guid(fedef37f465be2b40a4c1e165e009445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_248.asset using Guid(fedef37f465be2b40a4c1e165e009445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5755be470d39143a0178787cc763fb31') in 0.000735 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Tiles/newtiles_211.asset
+  artifactKey: Guid(35cca57dc67306c4694dd77608862341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_211.asset using Guid(35cca57dc67306c4694dd77608862341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8660d354c4366250631a8a7ade27e01f') in 0.000813 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Tiles/newtiles_0.asset
+  artifactKey: Guid(ed92c5c89e304174daaade8ac866ddbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_0.asset using Guid(ed92c5c89e304174daaade8ac866ddbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db0db5c1dd73bd34ea2eb03796f9515f') in 0.000669 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000005 seconds.
+  path: Assets/Tiles/newtiles_80.asset
+  artifactKey: Guid(e3c7245a3bfa34b4f9a9805d548e675d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_80.asset using Guid(e3c7245a3bfa34b4f9a9805d548e675d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d8832cf614c13ec98f9763ce9ec7243') in 0.000635 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Tiles/newtiles_146.asset
+  artifactKey: Guid(676d39d747f53af4aaf11cf1309eba05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_146.asset using Guid(676d39d747f53af4aaf11cf1309eba05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '033114ed89eb7e5afc1001f87fed6058') in 0.000677 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000006 seconds.
+  path: Assets/Tiles/newtiles_112.asset
+  artifactKey: Guid(a4d1bb2e00285364db62edb3926a989f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_112.asset using Guid(a4d1bb2e00285364db62edb3926a989f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc05fd744d0b6a33d956f2c93ab66433') in 0.000643 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Tiles/newtiles_133.asset
+  artifactKey: Guid(de31313c4175627408b0ff3e9240d775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_133.asset using Guid(de31313c4175627408b0ff3e9240d775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c394a3b08d4aeed64c34d84c217e305b') in 0.001239 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000006 seconds.
+  path: Assets/Tiles/newtiles_68.asset
+  artifactKey: Guid(588b55fa05f9a5945ae5c58f994c6807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_68.asset using Guid(588b55fa05f9a5945ae5c58f994c6807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af2fa680fc209da89f211f0837641482') in 0.000786 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Tiles/newtiles_521.asset
+  artifactKey: Guid(6b0fc5c05580f2141b342c41aaa46b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_521.asset using Guid(6b0fc5c05580f2141b342c41aaa46b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1118003f0a02ec0b73e7d52e9c7ab3d2') in 0.000639 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Tiles/newtiles_306.asset
+  artifactKey: Guid(e923b3ff9e92abc46b836918a9b77910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_306.asset using Guid(e923b3ff9e92abc46b836918a9b77910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c3b4d5934a8bad95581519cc59309cf') in 0.001099 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Tiles/newtiles_217.asset
+  artifactKey: Guid(5a24020890338bf449308a74c110d421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_217.asset using Guid(5a24020890338bf449308a74c110d421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddbbc5b4c0cc87cf93000354117eccd6') in 0.001056 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Tiles/newtiles_418.asset
+  artifactKey: Guid(7b3a376b3dc76c44fa2f34bc28f285b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_418.asset using Guid(7b3a376b3dc76c44fa2f34bc28f285b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '639f6b68611cbe366e5d4f79f277c5b5') in 0.000942 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000006 seconds.
+  path: Assets/Tiles/newtiles_405.asset
+  artifactKey: Guid(21d79b7a93242314fb84588d5cb90bdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_405.asset using Guid(21d79b7a93242314fb84588d5cb90bdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60efa9a9bd24df376649bb58fea62148') in 0.000906 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Tiles/newtiles_447.asset
+  artifactKey: Guid(0e55f71a0b61d7d4989f4d31778fd50c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_447.asset using Guid(0e55f71a0b61d7d4989f4d31778fd50c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fa8c08d87912873eca8d76cde2af7ed') in 0.000916 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000007 seconds.
+  path: Assets/Tiles/newtiles_196.asset
+  artifactKey: Guid(5d5d6e5aae15ff34e8ee7962d511078a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_196.asset using Guid(5d5d6e5aae15ff34e8ee7962d511078a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50127447284e96c14f27a6ece06c18f3') in 0.000964 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Tiles/newtiles_43.asset
+  artifactKey: Guid(4a228ba1767eeb04cb57ecbad9364cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_43.asset using Guid(4a228ba1767eeb04cb57ecbad9364cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c9b87555252d771861ad5eba80d1830') in 0.000711 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Tiles/newtiles_66.asset
+  artifactKey: Guid(821fe9b058f5b0045a7e304d5621f3f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_66.asset using Guid(821fe9b058f5b0045a7e304d5621f3f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b00bb2873dae0ec2d1b792aaadd4308') in 0.000651 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Tiles/newtiles_45.asset
+  artifactKey: Guid(bd4e99610452b944dbc6ba275c513bd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_45.asset using Guid(bd4e99610452b944dbc6ba275c513bd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '306e197302e0c1117a94c9d86a383571') in 0.000931 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000006 seconds.
+  path: Assets/Tiles/newtiles_190.asset
+  artifactKey: Guid(f23e19b0f1ccea241b62ad0a250db2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_190.asset using Guid(f23e19b0f1ccea241b62ad0a250db2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef80e24328f1646cd394ce676c4d6b1b') in 0.000837 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000005 seconds.
+  path: Assets/Tiles/newtiles_206.asset
+  artifactKey: Guid(46d38c4d750a9874f8e36c79e176d805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_206.asset using Guid(46d38c4d750a9874f8e36c79e176d805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e05069a667b87122015cacff7ff390e') in 0.000723 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Tiles/newtiles_543.asset
+  artifactKey: Guid(555deac8543f26a4d8780cd5eb7f3e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_543.asset using Guid(555deac8543f26a4d8780cd5eb7f3e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b5f79d38573a34f6862106a8a2c586f') in 0.000855 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Tiles/newtiles_220.asset
+  artifactKey: Guid(d5836f7e72d2f85449c3b2fc41c4103b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_220.asset using Guid(d5836f7e72d2f85449c3b2fc41c4103b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb4b2fc75e4b2c3a57d5c6662cbed1be') in 0.000667 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Tiles/newtiles_344.asset
+  artifactKey: Guid(dcd4f6617e3a4fe499700a81b017a175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_344.asset using Guid(dcd4f6617e3a4fe499700a81b017a175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f2ffaae899ff708dd011ef49d00b8c2') in 0.000974 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000006 seconds.
+  path: Assets/Tiles/newtiles_148.asset
+  artifactKey: Guid(afd9e21c2d760464cae5762ad6c1ef7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_148.asset using Guid(afd9e21c2d760464cae5762ad6c1ef7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f4e751ca20b776362849895611756e6') in 0.000767 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000005 seconds.
+  path: Assets/Tiles/newtiles_341.asset
+  artifactKey: Guid(365811c9ecd84964aa6c0e52dc119b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_341.asset using Guid(365811c9ecd84964aa6c0e52dc119b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddf0369c5af8c22c982ac98dd19bf092') in 0.000726 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Tiles/newtiles_524.asset
+  artifactKey: Guid(ea72e56193882d74e93fa6004f80e021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_524.asset using Guid(ea72e56193882d74e93fa6004f80e021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a61f8a884e95f6896feb7c70499bf5eb') in 0.000847 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000005 seconds.
+  path: Assets/Tiles/newtiles_300.asset
+  artifactKey: Guid(167696b3ead0823499bee0fe1e1c99af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_300.asset using Guid(167696b3ead0823499bee0fe1e1c99af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfe5c6db9c456beec574f79be048a14e') in 0.000775 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Tiles/newtiles_89.asset
+  artifactKey: Guid(bd878c34aaaa1f84f9bd84e2f2dd3a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_89.asset using Guid(bd878c34aaaa1f84f9bd84e2f2dd3a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a77904d66369c2378ddfef56a2f4cc7') in 0.000697 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000005 seconds.
+  path: Assets/Tiles/newtiles_224.asset
+  artifactKey: Guid(b37a04d4ea68b014ab750eb9e34e10a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_224.asset using Guid(b37a04d4ea68b014ab750eb9e34e10a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9804a86c03aace8be160dc45f894a586') in 0.000664 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Tiles/newtiles_136.asset
+  artifactKey: Guid(47c6fe838d689534180a4777802aa580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_136.asset using Guid(47c6fe838d689534180a4777802aa580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3d8619b081ad655886e93bef1d6e7a8') in 0.000638 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Tiles/newtiles_442.asset
+  artifactKey: Guid(32ef1aecfe7455c48a369c941e641b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_442.asset using Guid(32ef1aecfe7455c48a369c941e641b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e530e225d2a8d1382a50526b096108f') in 0.000621 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000004 seconds.
+  path: Assets/Tiles/newtiles_556.asset
+  artifactKey: Guid(f0d29f4924d6387499fba9756384a840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_556.asset using Guid(f0d29f4924d6387499fba9756384a840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3474dd95d11717e1e6457efd0c890d1') in 0.000669 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000005 seconds.
+  path: Assets/Tiles/newtiles_503.asset
+  artifactKey: Guid(6945bc93576b43b41916ad508036747d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_503.asset using Guid(6945bc93576b43b41916ad508036747d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9c896c3dbb83bdcc840d991e11f15cf') in 0.000616 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000005 seconds.
+  path: Assets/Tiles/newtiles_150.asset
+  artifactKey: Guid(3bcaeffcb9df6a74aacd2a98b10df8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_150.asset using Guid(3bcaeffcb9df6a74aacd2a98b10df8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67373803d32fa8159f642a45bd2064a7') in 0.000646 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Tiles/newtiles_559.asset
+  artifactKey: Guid(324e86fdfd57a054fb21d10b6905b44e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_559.asset using Guid(324e86fdfd57a054fb21d10b6905b44e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b14a48ab2a13a3167ddf04ed1c675f4f') in 0.001071 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000007 seconds.
+  path: Assets/Tiles/newtiles_218.asset
+  artifactKey: Guid(78f86f0c2074c824484523ed8bfd2225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_218.asset using Guid(78f86f0c2074c824484523ed8bfd2225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4380cb72b5e6142f7ee99ca9da6e7f2') in 0.000867 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Tiles/newtiles_33.asset
+  artifactKey: Guid(cdb8574bf16d193439a4631b4485f130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_33.asset using Guid(cdb8574bf16d193439a4631b4485f130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f52ee951fd785278b3369b4a370a45f3') in 0.000726 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Tiles/newtiles_321.asset
+  artifactKey: Guid(36eb8e05904954844b485e48dd6268ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_321.asset using Guid(36eb8e05904954844b485e48dd6268ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8e7fbf8134793bd91ee8ae5f7c247bf') in 0.000679 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Tiles/newtiles_566.asset
+  artifactKey: Guid(f49e8685732617f43847ea08d30fb529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_566.asset using Guid(f49e8685732617f43847ea08d30fb529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95c1a5bc9cd4470051f9cf052a25640f') in 0.000944 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Tiles/newtiles_568.asset
+  artifactKey: Guid(87cd162752b578d40975de99da6d5935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_568.asset using Guid(87cd162752b578d40975de99da6d5935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea3919b8de07459cb1746e921e3d3104') in 0.000814 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Tiles/newtiles_139.asset
+  artifactKey: Guid(34b85a83609056f468fb326dc6e3ddf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_139.asset using Guid(34b85a83609056f468fb326dc6e3ddf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e6386e029fac77766c14d76ef829625') in 0.000690 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Tiles/newtiles_177.asset
+  artifactKey: Guid(3d95aea629a52004e84565e99e1cd186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_177.asset using Guid(3d95aea629a52004e84565e99e1cd186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '221f381d09a1abe4eb4613843afa3cd2') in 0.000813 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Tiles/newtiles_73.asset
+  artifactKey: Guid(44696b318bf96ff45a486a44b7d70a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_73.asset using Guid(44696b318bf96ff45a486a44b7d70a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45854b63b759c445f128687d64e46c2d') in 0.001038 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Tiles/newtiles_183.asset
+  artifactKey: Guid(d585726dfb0619644b8008ea779400ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_183.asset using Guid(d585726dfb0619644b8008ea779400ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a76ee23d7601e9665d81494566fe1c5') in 0.000810 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Tiles/newtiles_433.asset
+  artifactKey: Guid(05422c1cadaf9944f90da2cf2662eb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_433.asset using Guid(05422c1cadaf9944f90da2cf2662eb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d135e4e68e2472e22564aabe3b747aa') in 0.001004 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Tiles/newtiles_223.asset
+  artifactKey: Guid(22e15f3918f5557439f6948cb3908f61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_223.asset using Guid(22e15f3918f5557439f6948cb3908f61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b0df21581e2c472b99da2f231eb7c8e') in 0.000811 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Tiles/newtiles_120.asset
+  artifactKey: Guid(ebe0c1289426fe640b1a7f4e36fb7e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_120.asset using Guid(ebe0c1289426fe640b1a7f4e36fb7e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c3d024e5611eb4e243fc1951f6aa88f') in 0.000885 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Tiles/newtiles_147.asset
+  artifactKey: Guid(17842266bfac5d347a2158b9f7180ac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_147.asset using Guid(17842266bfac5d347a2158b9f7180ac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8e29f01d3c5bac04b7716a1e0d4848e') in 0.000912 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Tiles/newtiles_304.asset
+  artifactKey: Guid(2fb69e3916e7ac34fafdaea3ddaba196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_304.asset using Guid(2fb69e3916e7ac34fafdaea3ddaba196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a6d62d8c7a788b011e73e32c82a04e1') in 0.000699 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000007 seconds.
+  path: Assets/Tiles/newtiles_573.asset
+  artifactKey: Guid(b1c394386f357a9469571b158f8e1027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_573.asset using Guid(b1c394386f357a9469571b158f8e1027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fce0cdd8026c46f3d4d3ad06d23c495b') in 0.000634 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000005 seconds.
+  path: Assets/Tiles/newtiles_309.asset
+  artifactKey: Guid(1e71fb183cf19314c805a77ba9a9dbd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_309.asset using Guid(1e71fb183cf19314c805a77ba9a9dbd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c26e742f1cf47da0836b0e0cc07a968f') in 0.000620 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Tiles/newtiles_114.asset
+  artifactKey: Guid(94cfbfaabeb82e741a0bd122b65a5893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_114.asset using Guid(94cfbfaabeb82e741a0bd122b65a5893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b4fe54fddf82edab6767b33cc847cbb') in 0.000656 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Tiles/newtiles_579.asset
+  artifactKey: Guid(519f047300431be4f8e53fa61e88329f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_579.asset using Guid(519f047300431be4f8e53fa61e88329f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '929fe43420185f0d589472a9e7860572') in 0.000636 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Tiles/newtiles_81.asset
+  artifactKey: Guid(420fa50726d1cc94bbd5ad0a8077e7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_81.asset using Guid(420fa50726d1cc94bbd5ad0a8077e7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3ea31054d68744353b3aec2bf69b679') in 0.000990 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Tiles/newtiles_152.asset
+  artifactKey: Guid(3941321075240a44f9f34f2466f0bcb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_152.asset using Guid(3941321075240a44f9f34f2466f0bcb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f35e1dcb29ece034ba53c07b3f88cff') in 0.001630 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Tiles/newtiles_557.asset
+  artifactKey: Guid(dba9db718a507a24a987c8fdc16a0ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_557.asset using Guid(dba9db718a507a24a987c8fdc16a0ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bd4df132d049dfc95b1b50b34763317') in 0.001088 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Tiles/newtiles_562.asset
+  artifactKey: Guid(12486678579c9f84e9aa4b1e31e3d4b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_562.asset using Guid(12486678579c9f84e9aa4b1e31e3d4b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e0d8564e476cb7ad4053409c31bd130') in 0.001233 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Tiles/newtiles_131.asset
+  artifactKey: Guid(a536bd637532298409077e6aaa04e538) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_131.asset using Guid(a536bd637532298409077e6aaa04e538) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9d3ce195278e359f9ff6f01a977a041') in 0.001253 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Tiles/newtiles_407.asset
+  artifactKey: Guid(db0448a3e882d7f409db15cc18a6a54c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_407.asset using Guid(db0448a3e882d7f409db15cc18a6a54c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9495846dde7db00d3095f3e1fda4abad') in 0.000755 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Tiles/newtiles_502.asset
+  artifactKey: Guid(16ed1fd2968d8554aa43e5229f193c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_502.asset using Guid(16ed1fd2968d8554aa43e5229f193c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b5f46555fc8ca31e3d7a508a189d89e') in 0.000655 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Tiles/newtiles_302.asset
+  artifactKey: Guid(f2be179f7c07e5b44bbd808ad748148a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_302.asset using Guid(f2be179f7c07e5b44bbd808ad748148a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b91c696e44c04a0234a3fca515a642c') in 0.000973 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Tiles/newtiles_74.asset
+  artifactKey: Guid(df0d58df2d65a6c44b6cf8ee6817b935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_74.asset using Guid(df0d58df2d65a6c44b6cf8ee6817b935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7790c8a4bdd9012ac0627ee56a1abf14') in 0.000736 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Tiles/newtiles_533.asset
+  artifactKey: Guid(727e379313269574aa87c3e1ca46adec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_533.asset using Guid(727e379313269574aa87c3e1ca46adec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80934b921a6246692f4083495cc7dbd3') in 0.000714 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.222934 seconds.
+  path: Assets/Tiles/newtiles_590.asset
+  artifactKey: Guid(157e00c5c2c30af43b8105ac64a6799b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_590.asset using Guid(157e00c5c2c30af43b8105ac64a6799b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a2f1b8a5b72a6d3dd819559faaf49f1') in 0.001377 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Tiles/newtiles_598.asset
+  artifactKey: Guid(5bcea5d3fe27ab94cb64fff05df27723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_598.asset using Guid(5bcea5d3fe27ab94cb64fff05df27723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60a594ed8f9c966c856cc09ff4c829e5') in 0.000827 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.010599 seconds.
+  path: Assets/Tiles/newtiles_604.asset
+  artifactKey: Guid(3df9bd0efd7f0a04fa5f509a20ac9c67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_604.asset using Guid(3df9bd0efd7f0a04fa5f509a20ac9c67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a23de23bf6ccb601cde6ff22343d563') in 0.000839 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000006 seconds.
+  path: Assets/Tiles/newtiles_608.asset
+  artifactKey: Guid(6445aff938395a549b763f02a3745b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_608.asset using Guid(6445aff938395a549b763f02a3745b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f0d6e1cb29e2d39921029ceced12249') in 0.000649 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.010536 seconds.
+  path: Assets/Tiles/newtiles_618.asset
+  artifactKey: Guid(f7ca9aed0cec4f545afc771eb58346da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_618.asset using Guid(f7ca9aed0cec4f545afc771eb58346da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '269ef69b98555a104b23407f11ad1133') in 0.000908 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000005 seconds.
+  path: Assets/Tiles/newtiles_624.asset
+  artifactKey: Guid(4b7e85d7d92675e40b1e2965e833df6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_624.asset using Guid(4b7e85d7d92675e40b1e2965e833df6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a36a93b8a59e7c97bf10e24266af39b') in 0.000630 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.023356 seconds.
+  path: Assets/Tiles/newtiles_632.asset
+  artifactKey: Guid(ff444113e08b9f241b52e474547bb99d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_632.asset using Guid(ff444113e08b9f241b52e474547bb99d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f62fd1c45e889029c4f46e4cf747dda5') in 0.001007 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000007 seconds.
+  path: Assets/Tiles/newtiles_638.asset
+  artifactKey: Guid(2a3e752c61ce19145b2f69847a65db0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_638.asset using Guid(2a3e752c61ce19145b2f69847a65db0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ce9d239c20cc0ef11d42f588497ae7e') in 0.000711 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.018421 seconds.
+  path: Assets/Tiles/newtiles_646.asset
+  artifactKey: Guid(0073a8b131dbf8b458732395f44dd985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_646.asset using Guid(0073a8b131dbf8b458732395f44dd985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c476f3eedc28f7c67e6e21ff815b3b3') in 0.000732 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Tiles/newtiles_651.asset
+  artifactKey: Guid(177c6f713bd0b764c88cf51ab3f189a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_651.asset using Guid(177c6f713bd0b764c88cf51ab3f189a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5718fdf3898e41d43859e434cb0b8d6a') in 0.001057 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.273425 seconds.
+  path: Assets/Tiles/newtiles_660.asset
+  artifactKey: Guid(db2e3e817ea5c6a42b9c7f0b69a45586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_660.asset using Guid(db2e3e817ea5c6a42b9c7f0b69a45586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27466f569faabb8e9b6f36db9732896c') in 0.001360 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Tiles/newtiles_667.asset
+  artifactKey: Guid(d39e4ca81b5e91d4bbd124a09499bea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_667.asset using Guid(d39e4ca81b5e91d4bbd124a09499bea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42463d628171fb60114289b5b156d483') in 0.000751 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.010006 seconds.
+  path: Assets/Tiles/newtiles_674.asset
+  artifactKey: Guid(0609c0df431fce641b273c04f6369858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_674.asset using Guid(0609c0df431fce641b273c04f6369858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc484e1735a320b732b361e0a0edad76') in 0.001076 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.018306 seconds.
+  path: Assets/Tiles/newtiles_688.asset
+  artifactKey: Guid(566fe266042ebcb42ac14dc13d53c3a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/newtiles_688.asset using Guid(566fe266042ebcb42ac14dc13d53c3a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaf15e9992fe74c1ff6f24aed51ee84c') in 0.001147 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.011593 seconds.
+  path: Assets/Tiles/PowerPellet_Tile.asset
+  artifactKey: Guid(fe71b535ec3a4e146a03953d88a85874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/PowerPellet_Tile.asset using Guid(fe71b535ec3a4e146a03953d88a85874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dea81ca56688461deae0758034f92c7') in 0.005041 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.041048 seconds.
+  path: Assets/Tiles/tiles blue and white_11.asset
+  artifactKey: Guid(020ab4dc3a426284e83394841f02117f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/tiles blue and white_11.asset using Guid(020ab4dc3a426284e83394841f02117f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76dbb9e6049db20fad2becf3b84bbe1f') in 0.001567 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Tiles/tiles blue and white_19.asset
+  artifactKey: Guid(2019b899ebfcea540b3a74be4d9a70a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/tiles blue and white_19.asset using Guid(2019b899ebfcea540b3a74be4d9a70a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09bc37c7b333760cdd8afdb3879972ec') in 0.001308 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 27.864228 seconds.
+  path: Assets/Tiles/tiles blue and white_26.asset
+  artifactKey: Guid(2b3a5c92a7235c4429743179aa6878f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/tiles blue and white_26.asset using Guid(2b3a5c92a7235c4429743179aa6878f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a81df4e995a1506ee4d2a5337c3c4aff') in 0.001599 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Tiles/tiles blue and white_34.asset
+  artifactKey: Guid(49372406d3fb8774aa1bc47cac7fbd27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/tiles blue and white_34.asset using Guid(49372406d3fb8774aa1bc47cac7fbd27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5f6e7fb2f6319602adcb0917efed653') in 0.001069 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.045008 seconds.
+  path: Assets/Tiles/tiles blue and white_40.asset
+  artifactKey: Guid(9b4e39e2c0741dc40a4d6d2d13ca0212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/tiles blue and white_40.asset using Guid(9b4e39e2c0741dc40a4d6d2d13ca0212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f817d753852e38b1487cd7f79f4a7656') in 0.001566 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Tiles/tiles blue and white_48.asset
+  artifactKey: Guid(5be0cff3781e6ac4b9e2ec064d993174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/tiles blue and white_48.asset using Guid(5be0cff3781e6ac4b9e2ec064d993174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '894a895ee495b7ce3945d6d9470d1bed') in 0.001246 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.026800 seconds.
+  path: Assets/Tiles/tiles blue and white_104.asset
+  artifactKey: Guid(a0b46bf5f3038e446a635c26f4768d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/tiles blue and white_104.asset using Guid(a0b46bf5f3038e446a635c26f4768d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '210e71664f23d074cb616e473d78d1a9') in 0.001610 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Tiles/tiles blue and white_111.asset
+  artifactKey: Guid(797de4ef0f0b7eb4eb9d3dc735d70acd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/tiles blue and white_111.asset using Guid(797de4ef0f0b7eb4eb9d3dc735d70acd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b82684ac16ad8ad0959dbb35e1a9c446') in 0.001111 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.100344 seconds.
+  path: Assets/Tiles/tiles blue and white_118.asset
+  artifactKey: Guid(857bf398abd04fb4eb07ca678d30c6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/tiles blue and white_118.asset using Guid(857bf398abd04fb4eb07ca678d30c6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e5d0b4b5e6de6e1dba50f0d7b6b52c2') in 0.001405 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Tiles/tiles blue and white_125.asset
+  artifactKey: Guid(d9338649315ff4147ba8d865c0ba4dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/tiles blue and white_125.asset using Guid(d9338649315ff4147ba8d865c0ba4dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d33ea9edae707e4139d3bf70f59f49d') in 0.000942 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 6.445631 seconds.
+  path: Assets/New Tiles/tiles blue and white_5.asset
+  artifactKey: Guid(2e468f3e5c412fd47975cf6798cdc207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_5.asset using Guid(2e468f3e5c412fd47975cf6798cdc207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03f5acce8341a92ae7f9da13387134f4') in 0.001298 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/New Tiles/tiles blue and white_8.asset
+  artifactKey: Guid(98d93a9e947a65d4e88c078589746213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_8.asset using Guid(98d93a9e947a65d4e88c078589746213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fbecba98d1055f1aaa99c48b97330de') in 0.001522 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/New Tiles/tiles blue and white_23.asset
+  artifactKey: Guid(31928426403c97b408f1b537aa06900c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_23.asset using Guid(31928426403c97b408f1b537aa06900c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ae5849ebb13b8caa9fd48af9e5b6bf3') in 0.001052 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000007 seconds.
+  path: Assets/New Tiles/tiles blue and white_30.asset
+  artifactKey: Guid(afc3c5b148d62a84a97b51c424e4a1d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_30.asset using Guid(afc3c5b148d62a84a97b51c424e4a1d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0f77136200e1672dcb213275cdbc365') in 0.000926 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000007 seconds.
+  path: Assets/New Tiles/tiles blue and white_35.asset
+  artifactKey: Guid(893af27c7c53cc84380471ff78d9a453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_35.asset using Guid(893af27c7c53cc84380471ff78d9a453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '036049cc617c9aa4338bcb3818787e41') in 0.000909 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/New Tiles/tiles blue and white_42.asset
+  artifactKey: Guid(70e293ef982644648b19ee9066b191a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_42.asset using Guid(70e293ef982644648b19ee9066b191a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8c4af2b4f45f32aec76d4e471cc49ee') in 0.000948 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000007 seconds.
+  path: Assets/New Tiles/tiles blue and white_49.asset
+  artifactKey: Guid(cf5685c9798ceae459ebca6900ebfd69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_49.asset using Guid(cf5685c9798ceae459ebca6900ebfd69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65f83ce25a4699e83fa21e63b2de0012') in 0.000975 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000007 seconds.
+  path: Assets/New Tiles/tiles blue and white_47.asset
+  artifactKey: Guid(2855ecdef0fb08f409b638c813a78823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_47.asset using Guid(2855ecdef0fb08f409b638c813a78823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc1877f7b2388cd0a7f51052c328fab3') in 0.000993 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/New Tiles/tiles blue and white_48.asset
+  artifactKey: Guid(2f63e95647261434e947df9bd48477c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_48.asset using Guid(2f63e95647261434e947df9bd48477c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e319eec909be9f804356d321ae4a2b6') in 0.001280 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
