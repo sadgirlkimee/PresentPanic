@@ -1,0 +1,5363 @@
+fileFormatVersion: 2
+guid: 93b8d97f29ecf884995d180ee7d202f8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: random palette_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba758466b12ddd41b27b82b006f57f0
+      internalID: 1619082655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 274
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36be08965004c21428ec426e2c60189b
+      internalID: -1309909254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 274
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729cedc91e50c564186f93be8c6d3218
+      internalID: -789052801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 274
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca43d9295442e74d913594b22090c1f
+      internalID: -251968803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 274
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ca0afdd4986be4b98c34103bb4dc64
+      internalID: -67321685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 274
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dff5d1d0bf57b64aa6aa5c085526261
+      internalID: 338730213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_6
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 274
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47286fd79ef8ef43840f47d4e5a5a3d
+      internalID: -640827186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 274
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fb13691f60b0143a0c08bbbd76099c
+      internalID: 1635742703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 274
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181f13111f7651f46924c4106e3ed202
+      internalID: 1517094516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_9
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 274
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2894af52af8f74eabc056c2d119e56
+      internalID: 2141560415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 274
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f559d02ddb1ee48b9e5987448c5da4
+      internalID: 452579531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 274
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7959a9bdfb58b59488a6e66761efb732
+      internalID: -1153908342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_12
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 274
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33756adaad089c24b8615a020f35ae60
+      internalID: -2064830710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_13
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 274
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a76269c86ce72499e33f9fed228239
+      internalID: 1400162763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 274
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b7cfc01966d8548bc4a08ca71b658e
+      internalID: -1442621620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_15
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 274
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8964fd077666ff4eaed4cdb2dd66eae
+      internalID: -1593509168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 274
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d8fbe62ff7357448c7cdbf7aaf50af
+      internalID: 608636799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e97a198e3c3d344686c1fe24439c8aa
+      internalID: 671464090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_18
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 253
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890c38fbbb1003a49b7512ae5ad37548
+      internalID: 991024675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 253
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba5dc07615c87d4c89defcb1ef9563b
+      internalID: 1600088420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 253
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3bf5efced76e74391de9e8e9d05ffa
+      internalID: -142844895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 253
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e4138551d31c440b8c1812e0d72636
+      internalID: -148871311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_22
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 253
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d372069784b1d46999580a70d6b58c
+      internalID: 1457647459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_23
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 253
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe92cb066dff1794cba1e6c256606a8b
+      internalID: -777441652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 253
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4566b6e8422bf16458a6974c36d97a84
+      internalID: -1735193150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_25
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 253
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13414c4e5dd8e4c43bfe967169714784
+      internalID: -424199319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_26
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 253
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f4cbcfeee235d43b3a4140b307afb4
+      internalID: 1411362210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 253
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985403238e863834d8e529c6dfcfa6ce
+      internalID: -411674471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_28
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 253
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b24bbdb487bef43a06ebd2e49c7c03
+      internalID: -1380606568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_29
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 253
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284b53679bd982a4a83453cbdb479a99
+      internalID: -537892268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_30
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 253
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8cb06b295ccc047b373dd8083e5419
+      internalID: 1772051917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_31
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 253
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fa75542f885ae42b7e4f91345861c0
+      internalID: 1772566098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_32
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 253
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b88ad819235f3d4993992c5f8d03463
+      internalID: 1809591011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_33
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 253
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1e117da2b438e4184ee65f06546213
+      internalID: 826662658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ec0a42dd2bb8741b3f3f811304fab8
+      internalID: 295613387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_35
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 232
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de28a84fb889be4ba7e01a2bdd3b353
+      internalID: 296592351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_36
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 232
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1de3cfa08c9ce4498d4732d16fdf42
+      internalID: -1038840069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_37
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 232
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caa8941bf3962749b1fcadd7f3393cc
+      internalID: -1420122943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_38
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 232
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e6037b03239964fbb9435e5042fa4d
+      internalID: 351552409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_39
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 232
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4a73a1fe71e8a4fbef29f59dcdcb7a
+      internalID: -744707887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_40
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 232
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213c5602f80b08441b5c850f2596b6f9
+      internalID: -406948222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_41
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 232
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67778c36a11a5ec4bb13aaadbc3d2d61
+      internalID: -139154648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 232
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad15b254f4d487439ee12f2947aa99d
+      internalID: -2124922155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_43
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 232
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340520938196e5a4da2d6c79d70886f5
+      internalID: -295878853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_44
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 232
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c537fdc8f92968344a046e167b1d9099
+      internalID: -1814219232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_45
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 232
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a5c2d5aa8d1d7428e90dfd0ef1daa1
+      internalID: -769467271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_46
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 232
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877e2730e87d6844ebfde036599a15cf
+      internalID: -1899322571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_47
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 232
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b510256bba61ad47b5c03b0701f597c
+      internalID: -592570314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_48
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 232
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adf4373214636a46a5e96a9256ad57a
+      internalID: 89479094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_49
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 232
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd1eba125f5ae34e868227d576f96fc
+      internalID: 602554378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_50
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 232
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1862d81837ac2a449aa3955108efb52e
+      internalID: -1389720445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dd15b2f508af940b7384ec71943a07
+      internalID: 659573502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_52
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 211
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d2ed268a82e8f4da2835d94cd4f74d
+      internalID: -565520896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_53
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 211
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d283a71c5451b2488bab3391c71fe3c
+      internalID: 565402344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_54
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 211
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34241bd34cb0a2844bf5a47038b9a630
+      internalID: -704944044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_55
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 211
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce90196596506d489e9c4b5d1815015
+      internalID: -2059027732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_56
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 211
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3763cb55243a1d94db72e16b168ebdc1
+      internalID: 14949469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_57
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 211
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b6dc25962f95344949e3165a9d20ed
+      internalID: -1741747206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_58
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 211
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8d4e65ad1e07d4fb207432861326b0
+      internalID: 535262337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_59
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 211
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59a34ac9c2c2c9469f6e154b15f6944
+      internalID: -996101003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_60
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 211
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f75179ac7e77b4f8c703a7b1c3d8a4
+      internalID: -1295012567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_61
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 211
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8734fdb2e9cef7643ba29223fb9a8700
+      internalID: 2011497062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_62
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 211
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e13cfb1599e2046afe6ab54a47b3fc
+      internalID: -871127573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_63
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 211
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa227f8ba09b423419731ebbc4ec2a68
+      internalID: 205964344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 211
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1806bb1fbf8f8074e848fce321a154c6
+      internalID: -382176478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_65
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 211
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9266ec5f5226f1e45a63f78e624959c0
+      internalID: -1988054793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_66
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 211
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d604ce7c7976d2145bbc61daa6713820
+      internalID: 1968857853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_67
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 211
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf65d775599ca24eb243e12ac1932e1
+      internalID: 1073632950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea9a3ec1c6ce884ea17b8809ca29b8e
+      internalID: -519533335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_69
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 190
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ab2b6be67a7ca47927beebfec3b7d1
+      internalID: -631948236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_70
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 190
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0e4a8c8788c6f4894c0b04a76ddf04
+      internalID: 1059211631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_71
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 190
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94577735c74e3454ea1c15f83e00ce07
+      internalID: -1084401988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_72
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 190
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a19356d7b5e4f468947769c35ebfd1
+      internalID: -1256499708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_73
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 190
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c77dddd7a988e246b48d49e9089da4d
+      internalID: -1775420251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_74
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 190
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f937505f086e0644db522ad3434ae2cc
+      internalID: -2010535306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_75
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 190
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6a2ea5bee753445afa0c06daeca240
+      internalID: -102967835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_76
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 190
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fda3e73cbe1dc4a89a5b7bc94d8b41
+      internalID: 1576747791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_77
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 190
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4512a8e419f6345a8848332147bb91
+      internalID: -27265575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_78
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 190
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2ce02fdac301e46b29bad91675ffb8
+      internalID: 6365887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_79
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 190
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c834aa6c9b687499e136f0396534c7
+      internalID: -562255321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_80
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 190
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a27985ce41e87344b079c1f27a1fa84
+      internalID: -1355524132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_81
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 190
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b492cdcabfaed47adaedf2b91c5eec
+      internalID: 1241473400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_82
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 190
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada45ddfaf3b057419b1c7dd4435c495
+      internalID: 165510209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_83
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 190
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450b5da75d4984d4f971151eb18ff9cb
+      internalID: -1084992703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_84
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 190
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baeec9e4b1b3cbd4690c6e594f0fa152
+      internalID: -608235138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06de2bb1b642c3d408059e2538f8d560
+      internalID: -1157620544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_86
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 169
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0127b9cd8ba4c249886bbb2844d0b0b
+      internalID: -1933642945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_87
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 169
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bfeb20012a7f64f88ddfa66f85d939
+      internalID: 1229960825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_88
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 169
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c5406ec1793564684209c20623b0eb
+      internalID: 797552004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_89
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 169
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7367c1e2f7d757468ea3c6405442d68
+      internalID: -1647940112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_90
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 169
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08eb5acd0de4d54b8194ffdb376376c
+      internalID: -25718683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_91
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 169
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417396352e2249641b3e431e02d63558
+      internalID: -2064990669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_92
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 169
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879c51515bfb3094cbf126d81e18fbbe
+      internalID: 548938512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_93
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 169
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f249a55807d6343a9543b55e667227
+      internalID: 1033974936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_94
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 169
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff7fb4b9f0afeb46b1fb5a9b74adff2
+      internalID: 819965560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_95
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 169
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b747d09a5122887468195cdee3e82953
+      internalID: -1362502678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_96
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 169
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f1e25d4ad89e74a8eafeffdcf18e09
+      internalID: 1946879161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_97
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 169
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb48a9454cd446d41bc0c61a4a359f60
+      internalID: -742802965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_98
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 169
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d253457ac377a4ca70ba23fb8968a0
+      internalID: -580576156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_99
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 169
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33dd68101d8cbd498d8fb3176b97970
+      internalID: -760355951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_100
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 169
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad577204d274e4488f872057c5bd149
+      internalID: -2060400606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_101
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 169
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b412ba5c47b86da419c302d294b8cf5b
+      internalID: -1466190497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dfc542e3e467845be03d495990b759
+      internalID: -144607418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_103
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 148
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fd5cd45306f554ab3037b7585d437e
+      internalID: 1102673066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_104
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 148
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ba6882612f5304c9475dfd5d473769
+      internalID: 1832505488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_105
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 148
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80e40606e17dcc44995852dc90444a0
+      internalID: -813166424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_106
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 148
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca0cc9f96f7266468da535ef396ac91
+      internalID: 137925199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_107
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 148
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea326c45c47a8994996b0121bc4dd29a
+      internalID: 406921092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_108
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 148
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bdfe55eea13e148886d6ff78d894b3
+      internalID: 265397858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_109
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 148
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ed0de83b690ae43a52076f00066325
+      internalID: -1882028920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_110
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 148
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e8d43af0804724a88d3a17703871f7
+      internalID: 745982034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_111
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 148
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41eb80499b1ffff4389f2db401136375
+      internalID: 1673621442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_112
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 148
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d7fa1ae9ce87a4ab6d2f4532bd9597
+      internalID: 1238639603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_113
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 148
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ea96c4b89a0f54e880f0ca6e169e8c
+      internalID: 364951318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_114
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 148
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80166d4d42e03d94a8b47a8d70ff51bd
+      internalID: 1996368729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_115
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 148
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29416f88a3202b34eb740fbe8824abff
+      internalID: -1350387106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_116
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 148
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0fbbdf0ce543c47a7509d401b75596
+      internalID: 268073350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_117
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 148
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25a721d80f164d4d8b586d8f2853cce
+      internalID: 1201620044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_118
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 148
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d776f1c2be2030948990f61e4b10faad
+      internalID: -1746695074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa9b435c1316b1448ed50af78c9ec5a
+      internalID: 2084061807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_120
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 127
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6685172af8491a543a3ee8857e4f5c5a
+      internalID: -528928431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_121
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 127
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6916750a26bdb4ebfb146997782bb8
+      internalID: 444506731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_122
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 127
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1b81aaedcd6c048b70d103c2c69b99
+      internalID: 1659024163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_123
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 127
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11b74820ad321241a54afa23f4260b0
+      internalID: 1979345319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_124
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 127
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd4bac8db4eea540820313f522c99b7
+      internalID: 1612095351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_125
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 127
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e13040a4c2777c4ba2e11d058466ca9
+      internalID: 1770586614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_126
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 127
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70f19110c142f845b389c549b43d228
+      internalID: -2008543450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_127
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 127
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70dbfe43c6b82240b8d0f62e875390a
+      internalID: -747879917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_128
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 127
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dcf23c0e343c64b8fed6655d1dd280
+      internalID: 2142954058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_129
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 127
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639be269c9b1349488aa3f17dba81990
+      internalID: -1366368201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_130
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 127
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a3a8c3b8050ca4f8f9519524b1dc8a
+      internalID: -692467946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_131
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 127
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429bc7dc55f196946a48cc0e6590be5b
+      internalID: -1622183559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_132
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 127
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3892b9999bba53a45abdd667561a7077
+      internalID: -853102942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_133
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 127
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bece75ed3d3b541b1f2a450f70865f
+      internalID: 2008806579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_134
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 127
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fd10e5c6b0df74a9c865eb2011f8ab
+      internalID: 1735916900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_135
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 127
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5dfd3fd77ba164ca534be12ef1b8ba
+      internalID: 379662058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03b33e02107f7b43abe9b75b136b420
+      internalID: -1543909065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_137
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 106
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0098b3322bf86e49856459814c44085
+      internalID: 404836495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_138
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 106
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc138b6470e4c941a7833dadde10e5f
+      internalID: 2056837348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_139
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 106
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6758182a520fa47872d1b0bae81067
+      internalID: 607944374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_140
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 106
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e441282a885e6b34abb21b05b0fee82c
+      internalID: -331779289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_141
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 106
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563abb5eca839b64b9199fbc0c5a0a37
+      internalID: -2027426870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_142
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 106
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560982d584683a143bac8b6355ad8262
+      internalID: 1502030843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_143
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 106
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51c16f839ee17046a6d85cdc78c22bd
+      internalID: -1644274451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_144
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 106
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ca8023b8e655a41b0a5d533e726690
+      internalID: 2142926999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_145
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 106
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870c56a95458c094baa8afa2c5fccc2a
+      internalID: -1354590154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_146
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 106
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c16ccc7fc389114dbe00693021f1cfb
+      internalID: 898001635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_147
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 106
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9466386f72e354daa660f2facb1d7c
+      internalID: 384676924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_148
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 106
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d68f862ff0c9c4bb685de030a58197
+      internalID: 1942793871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_149
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 106
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172647ab0f1f1e841b3b8f4e74cf37dc
+      internalID: -725079489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_150
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 106
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f5725b544c767439cbe1b38b3f2f5e
+      internalID: 1789364499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_151
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 106
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cabda5d2f35245489e2078b57ddacee
+      internalID: 1863532662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_152
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 106
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5227e781a6e37ce4883ee5c11f8fe65a
+      internalID: -2079523158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03b3e2e326e2c64fb05b49d5a1b90f0
+      internalID: -357181636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_154
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 85
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e77c0fb3b2346489846e59001dc503
+      internalID: -1391970829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_155
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 85
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df8392db66921e4cbef44599a1b093c
+      internalID: 1511896927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_156
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 85
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81297fede743b54ca156c577c54beef
+      internalID: 1846422937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_157
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 85
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63be5453e9caa2b449c84ff4c430bc6b
+      internalID: 1169857768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_158
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 85
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a5c90eaad0df24cb08b38417547ffe
+      internalID: 1337925383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_159
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 85
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d46dc49e32c954cb39f4626b1afdc6
+      internalID: 876634030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_160
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 85
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e4ff23e1555424697f3e4e307f59c8
+      internalID: -15656507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_161
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 85
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca016ce5bd6a0f4eafe8ff38fdfccfe
+      internalID: 214518598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_162
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 85
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15500ee7f62ded0469fbaa7cca06a042
+      internalID: -1961700992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_163
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 85
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242658b7f6943e94498cfd0a3ec270c7
+      internalID: -78066174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_164
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 85
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78b211ad766fb94ab37e86c0f6eeaaa
+      internalID: 1806962960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_165
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 85
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2541674204e4d049a2309f44c0efe8c
+      internalID: 1415540743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_166
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 85
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64f3990258238f43ad05275a5f7089e
+      internalID: -1944562218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_167
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 85
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a9c81d4c2858d4baa2429e92331e71
+      internalID: 1319220311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_168
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 85
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496a10db41a68494dbec867bcc70fd06
+      internalID: 656176709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_169
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 85
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d83458e59e3c94087ec5f554aeaf28
+      internalID: 1855141750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b644885712983264b984b3f2ed875242
+      internalID: 2030137943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_171
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 64
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3bf689f75217f48b03fc7fbae1670c
+      internalID: -608296880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_172
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 64
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2049aa68c73d1f84ebff1ee79dc88172
+      internalID: -628992887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_173
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 64
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd73bf7706e52c44e8fb77bceb097997
+      internalID: 2036706939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_174
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 64
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10f7bb1c3da6924e8be734a26147b33
+      internalID: 723818785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_175
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 64
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d230e0d16a618074983e18dea1ec9360
+      internalID: 357625528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_176
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 64
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523af8a35819bad46a24f4558621c310
+      internalID: -1225094174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_177
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 64
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e682d89f6af3ead4c80cb7d97abf398f
+      internalID: 1504142955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_178
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 64
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7323e4f87e50e44bc3ccc533ab57ce
+      internalID: 631329267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_179
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 64
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ce45ec483a77b4a9e4a11c3528f83c
+      internalID: -1246280065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_180
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 64
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e97d9c847c59945877bea93c4c927d
+      internalID: 661047894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_181
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 64
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9f81d94c8c4424b8eb9f41cedaec38
+      internalID: 494124554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_182
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 64
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16cfc4709c4f0f43821e4219f80f6e9
+      internalID: 785098745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_183
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 64
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16057b541e51efe4d81dfda32b0c96d2
+      internalID: 430394735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_184
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 64
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74544bd565d954a48a690bd83bf9aa8c
+      internalID: 1406634494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_185
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 64
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7658f300caeaa046a8a2ded5709fff5
+      internalID: 1101963527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_186
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 64
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce1dfad400660444b4e0b99c2e2cd41
+      internalID: -760205934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f317f552fb12844bb557c28b0e3974
+      internalID: -1227044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_188
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 43
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec9eaaea3f8db6418b123a6a239575c
+      internalID: -1178877503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_189
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 43
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf4818f18ce2ec4caae4a8a670c2edd
+      internalID: -579986889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_190
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 43
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4e0723aef05d24ba247b9bd451df4b
+      internalID: 2115789619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_191
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 43
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6ba91377460a34eb1c0f56c5911b9a
+      internalID: 972478168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_192
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 43
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d177a488b16492e44934ad14d035af3b
+      internalID: 387430939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_193
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 43
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9883dc625985104dbcde29ddb940f1c
+      internalID: 29337401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_194
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 43
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4325996e34e48f40acf01918960cb24
+      internalID: -1881862441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_195
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 43
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fd73fe48cea9a4a9d9c738c4a4f9ba
+      internalID: 740300695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_196
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 43
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88af6e249367b7c4997b1bb1ea9924a1
+      internalID: 646424602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_197
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 43
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd2b6e267c656843970ad5e3306acf2
+      internalID: 331616719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_198
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 43
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fdf2c8307879a4abe8cea4f74ab599
+      internalID: 644733768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_199
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 43
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec99556be51a5a94a81dfad8466bb685
+      internalID: 1915095550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_200
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 43
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dad247d4427e4d43b20968317cc2a80
+      internalID: 416387322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_201
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 43
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5063d8a82e75fdd448e2752792d95fe3
+      internalID: -860423858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_202
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 43
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e235a7ce2637694bbe1d7a9293d44c0
+      internalID: 1552997130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_203
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 43
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957226bd2fbee9944ba5365325d71cb7
+      internalID: -1592306079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541b9e9b52bd37843941a3d94c48c69b
+      internalID: -418544417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_205
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 22
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69941013b0db1d941821e22b66fbebf3
+      internalID: 2083573558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_206
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 22
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d34fcd929fb7684db372bc0401ea876
+      internalID: 933700517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_207
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 22
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11769e785f1597a4ba47aaf116f107d1
+      internalID: 286821670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_208
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 22
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d41c115afa3059499aaf6addf4d9840
+      internalID: 1917124767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_209
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 22
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932052c035a42f04ab3636acc3b68b4c
+      internalID: -994720504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_210
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 22
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0e990542e8ea840b3c670d974073cb
+      internalID: 832921895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_211
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 22
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d619e4ab67d814b4495e54e52d686d75
+      internalID: -1629430935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_212
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 22
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4080eb7bc8735d1408aa7b979aebe4b6
+      internalID: -1595963311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_213
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 22
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1bbc84a4c449c48b432cb197fb8c26
+      internalID: -1999809411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_214
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 22
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd7c4568f3bd6a458393e12c17585d0
+      internalID: -66439427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_215
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 22
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c2801c581e1d348bc69a0caf08c814
+      internalID: 1910633934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_216
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 22
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5915f1e9355f04040a1eaa138973a229
+      internalID: 1740630570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_217
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 22
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe59b0418efa6554ab78b0ce8a5e4475
+      internalID: -229891239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_218
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 22
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74387a872a8c37042a025d656afcc95a
+      internalID: 629094077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_219
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 22
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07a8f3b79436d74fb27fa6399382ade
+      internalID: 911126822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_220
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 22
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec82abde8c7fe7347bfa3a4eb9f02e29
+      internalID: 1237250246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_221
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d2a73e9a945004e8c77882b0e6d771
+      internalID: -1016305323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_222
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde54015e279e0441b206cd0604ba6ce
+      internalID: 968668713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_223
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f456fb861b05df140b817feb019c101d
+      internalID: 1108264162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_224
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf6ceb38732e7c43a02a714eb1540cf
+      internalID: 647609256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_225
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e15f825605b3a9459b389857767492e
+      internalID: -1454229151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_226
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e3934d32c5fe949afd26b77a9f67d6
+      internalID: -838627659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_227
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e3ab263730b414296e92b6b8854c8b
+      internalID: 1902372192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_228
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e1f4318c8a68d40aef33aa540cde97
+      internalID: -31462908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_229
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1703a11e85965cc47920538eed4387bf
+      internalID: -1404682400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_230
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84ffb6d79062084e893a30fff573f99
+      internalID: -2082053513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_231
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6052fd2982cf943ab044936e8b6132
+      internalID: -1747625094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_232
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93b4042151abb041b60447eff7f74fa
+      internalID: -1781253084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_233
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959971d2a67da3d4f8dbb46e167a1c38
+      internalID: -78731043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_234
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fcf4b8deb349348a4987f7e63a44b8
+      internalID: 2130825009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_235
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfde392849fc8bb49a17a90d8631ba75
+      internalID: -1452949976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_236
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd135c0ee97921b4e9acff62e5182c77
+      internalID: -1696925143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: random palette_237
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0281bc894d5e96d48bc1f5aff1ed24d2
+      internalID: -483255373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      random palette_0: 1619082655
+      random palette_1: -1309909254
+      random palette_10: 452579531
+      random palette_100: -2060400606
+      random palette_101: -1466190497
+      random palette_102: -144607418
+      random palette_103: 1102673066
+      random palette_104: 1832505488
+      random palette_105: -813166424
+      random palette_106: 137925199
+      random palette_107: 406921092
+      random palette_108: 265397858
+      random palette_109: -1882028920
+      random palette_11: -1153908342
+      random palette_110: 745982034
+      random palette_111: 1673621442
+      random palette_112: 1238639603
+      random palette_113: 364951318
+      random palette_114: 1996368729
+      random palette_115: -1350387106
+      random palette_116: 268073350
+      random palette_117: 1201620044
+      random palette_118: -1746695074
+      random palette_119: 2084061807
+      random palette_12: -2064830710
+      random palette_120: -528928431
+      random palette_121: 444506731
+      random palette_122: 1659024163
+      random palette_123: 1979345319
+      random palette_124: 1612095351
+      random palette_125: 1770586614
+      random palette_126: -2008543450
+      random palette_127: -747879917
+      random palette_128: 2142954058
+      random palette_129: -1366368201
+      random palette_13: 1400162763
+      random palette_130: -692467946
+      random palette_131: -1622183559
+      random palette_132: -853102942
+      random palette_133: 2008806579
+      random palette_134: 1735916900
+      random palette_135: 379662058
+      random palette_136: -1543909065
+      random palette_137: 404836495
+      random palette_138: 2056837348
+      random palette_139: 607944374
+      random palette_14: -1442621620
+      random palette_140: -331779289
+      random palette_141: -2027426870
+      random palette_142: 1502030843
+      random palette_143: -1644274451
+      random palette_144: 2142926999
+      random palette_145: -1354590154
+      random palette_146: 898001635
+      random palette_147: 384676924
+      random palette_148: 1942793871
+      random palette_149: -725079489
+      random palette_15: -1593509168
+      random palette_150: 1789364499
+      random palette_151: 1863532662
+      random palette_152: -2079523158
+      random palette_153: -357181636
+      random palette_154: -1391970829
+      random palette_155: 1511896927
+      random palette_156: 1846422937
+      random palette_157: 1169857768
+      random palette_158: 1337925383
+      random palette_159: 876634030
+      random palette_16: 608636799
+      random palette_160: -15656507
+      random palette_161: 214518598
+      random palette_162: -1961700992
+      random palette_163: -78066174
+      random palette_164: 1806962960
+      random palette_165: 1415540743
+      random palette_166: -1944562218
+      random palette_167: 1319220311
+      random palette_168: 656176709
+      random palette_169: 1855141750
+      random palette_17: 671464090
+      random palette_170: 2030137943
+      random palette_171: -608296880
+      random palette_172: -628992887
+      random palette_173: 2036706939
+      random palette_174: 723818785
+      random palette_175: 357625528
+      random palette_176: -1225094174
+      random palette_177: 1504142955
+      random palette_178: 631329267
+      random palette_179: -1246280065
+      random palette_18: 991024675
+      random palette_180: 661047894
+      random palette_181: 494124554
+      random palette_182: 785098745
+      random palette_183: 430394735
+      random palette_184: 1406634494
+      random palette_185: 1101963527
+      random palette_186: -760205934
+      random palette_187: -1227044
+      random palette_188: -1178877503
+      random palette_189: -579986889
+      random palette_19: 1600088420
+      random palette_190: 2115789619
+      random palette_191: 972478168
+      random palette_192: 387430939
+      random palette_193: 29337401
+      random palette_194: -1881862441
+      random palette_195: 740300695
+      random palette_196: 646424602
+      random palette_197: 331616719
+      random palette_198: 644733768
+      random palette_199: 1915095550
+      random palette_2: -789052801
+      random palette_20: -142844895
+      random palette_200: 416387322
+      random palette_201: -860423858
+      random palette_202: 1552997130
+      random palette_203: -1592306079
+      random palette_204: -418544417
+      random palette_205: 2083573558
+      random palette_206: 933700517
+      random palette_207: 286821670
+      random palette_208: 1917124767
+      random palette_209: -994720504
+      random palette_21: -148871311
+      random palette_210: 832921895
+      random palette_211: -1629430935
+      random palette_212: -1595963311
+      random palette_213: -1999809411
+      random palette_214: -66439427
+      random palette_215: 1910633934
+      random palette_216: 1740630570
+      random palette_217: -229891239
+      random palette_218: 629094077
+      random palette_219: 911126822
+      random palette_22: 1457647459
+      random palette_220: 1237250246
+      random palette_221: -1016305323
+      random palette_222: 968668713
+      random palette_223: 1108264162
+      random palette_224: 647609256
+      random palette_225: -1454229151
+      random palette_226: -838627659
+      random palette_227: 1902372192
+      random palette_228: -31462908
+      random palette_229: -1404682400
+      random palette_23: -777441652
+      random palette_230: -2082053513
+      random palette_231: -1747625094
+      random palette_232: -1781253084
+      random palette_233: -78731043
+      random palette_234: 2130825009
+      random palette_235: -1452949976
+      random palette_236: -1696925143
+      random palette_237: -483255373
+      random palette_24: -1735193150
+      random palette_25: -424199319
+      random palette_26: 1411362210
+      random palette_27: -411674471
+      random palette_28: -1380606568
+      random palette_29: -537892268
+      random palette_3: -251968803
+      random palette_30: 1772051917
+      random palette_31: 1772566098
+      random palette_32: 1809591011
+      random palette_33: 826662658
+      random palette_34: 295613387
+      random palette_35: 296592351
+      random palette_36: -1038840069
+      random palette_37: -1420122943
+      random palette_38: 351552409
+      random palette_39: -744707887
+      random palette_4: -67321685
+      random palette_40: -406948222
+      random palette_41: -139154648
+      random palette_42: -2124922155
+      random palette_43: -295878853
+      random palette_44: -1814219232
+      random palette_45: -769467271
+      random palette_46: -1899322571
+      random palette_47: -592570314
+      random palette_48: 89479094
+      random palette_49: 602554378
+      random palette_5: 338730213
+      random palette_50: -1389720445
+      random palette_51: 659573502
+      random palette_52: -565520896
+      random palette_53: 565402344
+      random palette_54: -704944044
+      random palette_55: -2059027732
+      random palette_56: 14949469
+      random palette_57: -1741747206
+      random palette_58: 535262337
+      random palette_59: -996101003
+      random palette_6: -640827186
+      random palette_60: -1295012567
+      random palette_61: 2011497062
+      random palette_62: -871127573
+      random palette_63: 205964344
+      random palette_64: -382176478
+      random palette_65: -1988054793
+      random palette_66: 1968857853
+      random palette_67: 1073632950
+      random palette_68: -519533335
+      random palette_69: -631948236
+      random palette_7: 1635742703
+      random palette_70: 1059211631
+      random palette_71: -1084401988
+      random palette_72: -1256499708
+      random palette_73: -1775420251
+      random palette_74: -2010535306
+      random palette_75: -102967835
+      random palette_76: 1576747791
+      random palette_77: -27265575
+      random palette_78: 6365887
+      random palette_79: -562255321
+      random palette_8: 1517094516
+      random palette_80: -1355524132
+      random palette_81: 1241473400
+      random palette_82: 165510209
+      random palette_83: -1084992703
+      random palette_84: -608235138
+      random palette_85: -1157620544
+      random palette_86: -1933642945
+      random palette_87: 1229960825
+      random palette_88: 797552004
+      random palette_89: -1647940112
+      random palette_9: 2141560415
+      random palette_90: -25718683
+      random palette_91: -2064990669
+      random palette_92: 548938512
+      random palette_93: 1033974936
+      random palette_94: 819965560
+      random palette_95: -1362502678
+      random palette_96: 1946879161
+      random palette_97: -742802965
+      random palette_98: -580576156
+      random palette_99: -760355951
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 9a02d52602fc3184f9a142c5c9d57df9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: elfwalk_Frame_0
+    originalName: 
+    pivot: {x: 0.37931037, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 163
+      y: 4
+      width: 29
+      height: 45
+    spriteID: 50eacbc5de3ac90449dafbf108f85a1f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: 4}
+  - name: elfwalk_Frame_1
+    originalName: 
+    pivot: {x: 0.4375, y: -0.04347826}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 4
+      width: 32
+      height: 46
+    spriteID: cca32ad9d718f90439b4634adf746b0f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 4}
+  - name: elfwalk_Frame_2
+    originalName: 
+    pivot: {x: 0.4193548, y: -0.06818182}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 4
+      width: 31
+      height: 44
+    spriteID: 2633a5c2d07a46142a63d4fc31d883c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 4}
+  - name: elfwalk_Frame_3
+    originalName: 
+    pivot: {x: 0.45454547, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 33
+      height: 48
+    spriteID: 0f8506c988ed89a44bb42110a7640e80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: elfwalk_Frame_4
+    originalName: 
+    pivot: {x: 0.45454547, y: -0.042553194}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 60
+      width: 33
+      height: 47
+    spriteID: 5ff9be07823ff3340a5c54587704594e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 60}
+  - name: elfwalk_Frame_5
+    originalName: 
+    pivot: {x: 0.45454547, y: -0.06382979}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 115
+      width: 33
+      height: 47
+    spriteID: aabc07bf39d125c41b5a5c7fd5c30f09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 115}
+  - name: elfwalk_Frame_6
+    originalName: 
+    pivot: {x: 0.45454547, y: -0.021276597}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 170
+      width: 33
+      height: 47
+    spriteID: dae1607cf787cd6408a2416e351e7c23
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 170}
+  - name: elfwalk_Frame_7
+    originalName: 
+    pivot: {x: 0.4193548, y: -0.022222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 4
+      width: 31
+      height: 45
+    spriteID: 907eb82cd250aea459a18e5cac938acb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 4}
+  - name: elfwalk_Frame_8
+    originalName: 
+    pivot: {x: 0.43333334, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 111
+      width: 30
+      height: 45
+    spriteID: 45af47aa7b58fca4cbd2dbe4367c6a06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 111}
+  - name: elfwalk_Frame_9
+    originalName: 
+    pivot: {x: 0.4193548, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 57
+      width: 31
+      height: 45
+    spriteID: 6fb8a57ed9a75654da32a5a0a550717e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 57}
+  - name: elfwalk_Frame_10
+    originalName: 
+    pivot: {x: 0.4193548, y: -0.04347826}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 113
+      width: 31
+      height: 46
+    spriteID: d9be1e065c2eb994381335448fb08e43
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 113}
+  - name: elfwalk_Frame_11
+    originalName: 
+    pivot: {x: 0.37931037, y: -0.042553194}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 56
+      width: 29
+      height: 47
+    spriteID: fd5d6c878779c204e8ab717650cc8b0e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 56}
+  - name: elfwalk_Frame_12
+    originalName: 
+    pivot: {x: 0.37931037, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 110
+      width: 29
+      height: 48
+    spriteID: f9a9b76fc6c1cf644ade6b3554f3469b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 110}
+  - name: elfwalk_Frame_13
+    originalName: 
+    pivot: {x: 0.37931037, y: -0.020833334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 166
+      width: 29
+      height: 48
+    spriteID: c36a4e79c3fbca44686d7d62c9e57260
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 166}
+  - name: elfwalk_Frame_14
+    originalName: 
+    pivot: {x: 0.37931037, y: -0.04347826}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 164
+      width: 29
+      height: 46
+    spriteID: 1ca068d3857493e49b34e157105fc3ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 164}
+  - name: elfwalk_Frame_15
+    originalName: 
+    pivot: {x: 0.4193548, y: -0.042553194}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 58
+      width: 31
+      height: 47
+    spriteID: 1c52b442c027fc54e9ddff17abed5146
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 58}
+  - name: elfwalk_Frame_16
+    originalName: 
+    pivot: {x: 0.4193548, y: -0.06521739}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 167
+      width: 31
+      height: 46
+    spriteID: 926ec33b45fc80f4fabc0a5255c6e4b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 167}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 2119621262
+    name: elfwalk
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: elfwalk_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 9
+        y: 3
+        width: 29
+        height: 45
+      spriteId: 50eacbc5de3ac90449dafbf108f85a1f
+    - name: elfwalk_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 6
+        y: 2
+        width: 32
+        height: 46
+      spriteId: cca32ad9d718f90439b4634adf746b0f
+    - name: elfwalk_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 7
+        y: 3
+        width: 31
+        height: 44
+      spriteId: 2633a5c2d07a46142a63d4fc31d883c7
+    - name: elfwalk_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 5
+        y: 0
+        width: 33
+        height: 48
+      spriteId: 0f8506c988ed89a44bb42110a7640e80
+    - name: elfwalk_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 5
+        y: 2
+        width: 33
+        height: 47
+      spriteId: 5ff9be07823ff3340a5c54587704594e
+    - name: elfwalk_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 5
+        y: 3
+        width: 33
+        height: 47
+      spriteId: aabc07bf39d125c41b5a5c7fd5c30f09
+    - name: elfwalk_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 5
+        y: 1
+        width: 33
+        height: 47
+      spriteId: dae1607cf787cd6408a2416e351e7c23
+    - name: elfwalk_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 7
+        y: 1
+        width: 31
+        height: 45
+      spriteId: 907eb82cd250aea459a18e5cac938acb
+    - name: elfwalk_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 7
+        y: 3
+        width: 30
+        height: 45
+      spriteId: 45af47aa7b58fca4cbd2dbe4367c6a06
+    - name: elfwalk_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 7
+        y: 3
+        width: 31
+        height: 45
+      spriteId: 6fb8a57ed9a75654da32a5a0a550717e
+    - name: elfwalk_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 7
+        y: 2
+        width: 31
+        height: 46
+      spriteId: d9be1e065c2eb994381335448fb08e43
+    - name: elfwalk_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 9
+        y: 2
+        width: 29
+        height: 47
+      spriteId: fd5d6c878779c204e8ab717650cc8b0e
+    - name: elfwalk_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 9
+        y: 0
+        width: 29
+        height: 48
+      spriteId: f9a9b76fc6c1cf644ade6b3554f3469b
+    - name: elfwalk_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 9
+        y: 1
+        width: 29
+        height: 48
+      spriteId: c36a4e79c3fbca44686d7d62c9e57260
+    - name: elfwalk_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 9
+        y: 2
+        width: 29
+        height: 46
+      spriteId: 1ca068d3857493e49b34e157105fc3ba
+    - name: elfwalk_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 7
+        y: 2
+        width: 31
+        height: 47
+      spriteId: 1c52b442c027fc54e9ddff17abed5146
+    - name: elfwalk_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 7
+        y: 3
+        width: 31
+        height: 46
+      spriteId: 926ec33b45fc80f4fabc0a5255c6e4b9
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 40, y: 51}

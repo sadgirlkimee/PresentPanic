@@ -1,0 +1,1331 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.10f1 (ff3792e53c62) revision 16725906'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Professional' Language: 'en' Physical Memory: 31894 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+L:\Unity\2022.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker5
+-projectPath
+L:/School/Unity Projects/PresentPanic
+-logFile
+Logs/AssetImportWorker5.log
+-srvPort
+51335
+Successfully changed project path to: L:/School/Unity Projects/PresentPanic
+L:/School/Unity Projects/PresentPanic
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [25984] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 3493359445 [EditorId] 3493359445 [Version] 1048832 [Id] WindowsEditor(7,Mark-85) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [25984] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 3493359445 [EditorId] 3493359445 [Version] 1048832 [Id] WindowsEditor(7,Mark-85) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 23 workers.
+Refreshing native plugins compatible for Editor in 5.67 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.10f1 (ff3792e53c62)
+[Subsystems] Discovering subsystems at path L:/Unity/2022.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path L:/School/Unity Projects/PresentPanic/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4070 Ti (ID=0x2782)
+    Vendor:   NVIDIA
+    VRAM:     12010 MB
+    Driver:   31.0.15.3623
+Initialize mono
+Mono path[0] = 'L:/Unity/2022.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'L:/Unity/2022.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'L:/Unity/2022.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56964
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: L:/Unity/2022.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002285 seconds.
+- Loaded All Assemblies, in  0.218 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.158 seconds
+Domain Reload Profiling: 376ms
+	BeginReloadAssembly (68ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (0ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (32ms)
+	LoadAllAssembliesAndSetupDomain (88ms)
+		LoadAssemblies (68ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (87ms)
+			TypeCache.Refresh (86ms)
+				TypeCache.ScanAssembly (77ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (158ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (120ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (1ms)
+			ProcessInitializeOnLoadAttributes (79ms)
+			ProcessInitializeOnLoadMethodAttributes (31ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.396 seconds
+Refreshing native plugins compatible for Editor in 2.17 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.391 seconds
+Domain Reload Profiling: 787ms
+	BeginReloadAssembly (101ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (18ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (6ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (240ms)
+		LoadAssemblies (188ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (108ms)
+			TypeCache.Refresh (90ms)
+				TypeCache.ScanAssembly (79ms)
+			ScanForSourceGeneratedMonoScriptInfo (15ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (392ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (284ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (43ms)
+			ProcessInitializeOnLoadAttributes (210ms)
+			ProcessInitializeOnLoadMethodAttributes (22ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 2.94 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4069 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 63 unused Assets / (60.8 KB). Loaded Objects now: 4532.
+Memory consumption went from 142.1 MB to 142.0 MB.
+Total: 2.764500 ms (FindLiveObjects: 0.296900 ms CreateObjectMapping: 0.063100 ms MarkObjects: 2.291900 ms  DeleteObjects: 0.111300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 9347.610668 seconds.
+  path: Assets/New Tiles/tiles blue and white_49.asset
+  artifactKey: Guid(cf5685c9798ceae459ebca6900ebfd69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_49.asset using Guid(cf5685c9798ceae459ebca6900ebfd69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65f83ce25a4699e83fa21e63b2de0012') in 0.021298 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1.575014 seconds.
+  path: Assets/New Tiles/tiles blue and white_104.asset
+  artifactKey: Guid(ae26ba4f71c194845adaccba1816b5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_104.asset using Guid(ae26ba4f71c194845adaccba1816b5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4aee17538848327855f1d5019050c49') in 0.001241 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/New Tiles/tiles blue and white_112.asset
+  artifactKey: Guid(f0cbe7649a8303242aa06b8419cf2331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_112.asset using Guid(f0cbe7649a8303242aa06b8419cf2331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5114ec9dda1eb64d38b1a2cb5731734e') in 0.000701 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.048712 seconds.
+  path: Assets/New Tiles/tiles blue and white_118.asset
+  artifactKey: Guid(52943ee852cee49489d674f6c47d3c42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_118.asset using Guid(52943ee852cee49489d674f6c47d3c42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc335aec83cfa32d79b277953808f777') in 0.000967 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.097155 seconds.
+  path: Assets/New Tiles/tiles blue and white_132.asset
+  artifactKey: Guid(46da84d1548a531438848fcb6de2002c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_132.asset using Guid(46da84d1548a531438848fcb6de2002c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '637f1931a206c2f8e802a595138ba146') in 0.001295 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/New Tiles/tiles blue and white_140.asset
+  artifactKey: Guid(f4405feb9f1eef34fab0f22c21421bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_140.asset using Guid(f4405feb9f1eef34fab0f22c21421bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46e2d11d5d97ffa033df377147d42335') in 0.000757 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.047663 seconds.
+  path: Assets/New Tiles/tiles blue and white_146.asset
+  artifactKey: Guid(5c4d1252023e63044b66cf66e5e6afe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_146.asset using Guid(5c4d1252023e63044b66cf66e5e6afe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3848c625e4033c3645c5ebddc9d263f') in 0.000875 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000506 seconds.
+  path: Assets/New Tiles/tiles blue and white_153.asset
+  artifactKey: Guid(751f713acdce758488ec7aa0dc32e8ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_153.asset using Guid(751f713acdce758488ec7aa0dc32e8ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4617beb3abaf2aacbce0af4fc98089e') in 0.000718 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 2.760553 seconds.
+  path: Assets/New Tiles/tiles blue and white_160.asset
+  artifactKey: Guid(59d6eea3d85060d409387b20a82797f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_160.asset using Guid(59d6eea3d85060d409387b20a82797f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28eafe36b9c964ef49f927a297ae7d42') in 0.001287 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/New Tiles/tiles blue and white_165.asset
+  artifactKey: Guid(5dfa224d39ee53443ae675a8ba5a6b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_165.asset using Guid(5dfa224d39ee53443ae675a8ba5a6b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efb63a63b3988ea7ec008808c6d1b2b2') in 0.001135 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.032822 seconds.
+  path: Assets/New Tiles/tiles blue and white_174.asset
+  artifactKey: Guid(e289e96bf15a9b8458194b125744613c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_174.asset using Guid(e289e96bf15a9b8458194b125744613c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c1fbce20a8adcd7efd43498118746e0') in 0.000898 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/New Tiles/tiles blue and white_175.asset
+  artifactKey: Guid(e770387202302024089b74a96b43abc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_175.asset using Guid(e770387202302024089b74a96b43abc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a71e35a806a5d3a5c65a242df7b7918') in 0.000741 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.040124 seconds.
+  path: Assets/New Tiles/tiles blue and white_188.asset
+  artifactKey: Guid(257c793d183f8e24e9b5f574632fb569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_188.asset using Guid(257c793d183f8e24e9b5f574632fb569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b85cc8037ecab0e579aa290b89b4f08') in 0.001011 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/New Tiles/tiles blue and white_194.asset
+  artifactKey: Guid(c6e9585d2b8c560419300839d34b313e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_194.asset using Guid(c6e9585d2b8c560419300839d34b313e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b1d733b4e81e58492bd72cce7b8209b') in 0.000687 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.039671 seconds.
+  path: Assets/New Tiles/tiles blue and white_202.asset
+  artifactKey: Guid(ac024fc466e62b64993e8809ca3bfb91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_202.asset using Guid(ac024fc466e62b64993e8809ca3bfb91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9de7516f8ff169791b1040a4eec959cf') in 0.001180 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.068686 seconds.
+  path: Assets/New Tiles/tiles blue and white_216.asset
+  artifactKey: Guid(d208b3b481774184fb0fa5a801ea0020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_216.asset using Guid(d208b3b481774184fb0fa5a801ea0020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7282b0b147d88e0245657a0204588039') in 0.001227 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/New Tiles/tiles blue and white_223.asset
+  artifactKey: Guid(c93358d224e8d8b43a836f26c860549e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_223.asset using Guid(c93358d224e8d8b43a836f26c860549e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e48aea352e3856f8c048cabf44de10a1') in 0.001142 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.417984 seconds.
+  path: Assets/New Tiles/tiles blue and white_230.asset
+  artifactKey: Guid(c2b11bd80df9724499ce7fbd392e433d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_230.asset using Guid(c2b11bd80df9724499ce7fbd392e433d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '456db0c0697610a723db0bac033645af') in 0.001380 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/New Tiles/tiles blue and white_237.asset
+  artifactKey: Guid(594bdf9026fa6ba44992be963f934db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_237.asset using Guid(594bdf9026fa6ba44992be963f934db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20749d0130db1f5bec966ac83ceff8cd') in 0.001164 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.013244 seconds.
+  path: Assets/New Tiles/tiles blue and white_244.asset
+  artifactKey: Guid(8925b62c1a54abf48a4a9dce69513425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_244.asset using Guid(8925b62c1a54abf48a4a9dce69513425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a802289f2afc31e324465cfb91298b1') in 0.001189 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/New Tiles/tiles blue and white_250.asset
+  artifactKey: Guid(72768e7bf8147ce42b47656a23ad989b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_250.asset using Guid(72768e7bf8147ce42b47656a23ad989b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b30059f574ed38e5db16e7aff30262b') in 0.000681 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.028509 seconds.
+  path: Assets/New Tiles/tiles blue and white_258.asset
+  artifactKey: Guid(5db05379149f14a46a0d6a33f44f298f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_258.asset using Guid(5db05379149f14a46a0d6a33f44f298f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae5f6067d222b982ec98105871b17788') in 0.001215 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/New Tiles/tiles blue and white_265.asset
+  artifactKey: Guid(a12219ffdf4fce94dbf29d5d1597b511) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_265.asset using Guid(a12219ffdf4fce94dbf29d5d1597b511) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '578cd5a0d1bb4882fe6c92c707cdd2df') in 0.001225 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.021465 seconds.
+  path: Assets/New Tiles/tiles blue and white_272.asset
+  artifactKey: Guid(680b94887ca35374c9b9670b92b42a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_272.asset using Guid(680b94887ca35374c9b9670b92b42a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '798f31e041cd688691b1318ff79ec874') in 0.000910 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/New Tiles/tiles blue and white_276.asset
+  artifactKey: Guid(39bc0a1a6c480504db43638bf4df3a6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_276.asset using Guid(39bc0a1a6c480504db43638bf4df3a6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a89fbeb968a802b5379ffdc3ec2bec12') in 0.001155 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1.378828 seconds.
+  path: Assets/New Tiles/tiles blue and white_286.asset
+  artifactKey: Guid(bd24a8e27636aa94f8b6f244e3de6df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_286.asset using Guid(bd24a8e27636aa94f8b6f244e3de6df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '761d0582776440c6f038477aebca4926') in 0.001259 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.012413 seconds.
+  path: Assets/New Tiles/tiles blue and white_300.asset
+  artifactKey: Guid(5be1fcc0f80ce9e4cb6f0c76ac1e2066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_300.asset using Guid(5be1fcc0f80ce9e4cb6f0c76ac1e2066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9cda356f72ee6fdad682ce76a31fd87') in 0.001221 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/New Tiles/tiles blue and white_306.asset
+  artifactKey: Guid(3a2891e28c4a54d4d937e945643957c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_306.asset using Guid(3a2891e28c4a54d4d937e945643957c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bad8304e2cbc7b67d18f43c3e85dc49c') in 0.000694 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.006358 seconds.
+  path: Assets/New Tiles/tiles blue and white_314.asset
+  artifactKey: Guid(4955e2bab45d43c45a2c09cf8dd02a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_314.asset using Guid(4955e2bab45d43c45a2c09cf8dd02a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffe4c090ba638ef9e3133934cd88d076') in 0.001409 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.002719 seconds.
+  path: Assets/New Tiles/tiles blue and white_332.asset
+  artifactKey: Guid(466b4efdcb0cbb84bb2a5fbb6b21d47a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_332.asset using Guid(466b4efdcb0cbb84bb2a5fbb6b21d47a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efa6a2610889d2308c014ccb676d4255') in 0.000965 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.006281 seconds.
+  path: Assets/New Tiles/tiles blue and white_342.asset
+  artifactKey: Guid(10c8276ad0edb5249b2854c6070ccc74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_342.asset using Guid(10c8276ad0edb5249b2854c6070ccc74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cef116b4b14114fb07579b55d07cb362') in 0.001109 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/New Tiles/tiles blue and white_349.asset
+  artifactKey: Guid(c7ada92dc7b5df746bf12667a9b3d4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_349.asset using Guid(c7ada92dc7b5df746bf12667a9b3d4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f25074327ad78eb4cf56c10fd2e8482a') in 0.000686 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.002024 seconds.
+  path: Assets/New Tiles/tiles blue and white_361.asset
+  artifactKey: Guid(1c018bc7710bd2248b6eb771b060b97f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_361.asset using Guid(1c018bc7710bd2248b6eb771b060b97f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4442b7d3c092dc9c7afd4cb30dbcb545') in 0.001123 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001872 seconds.
+  path: Assets/New Tiles/tiles blue and white_375.asset
+  artifactKey: Guid(6065dfcb060796c4a8c17cc001bb041c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_375.asset using Guid(6065dfcb060796c4a8c17cc001bb041c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6310b2e448f2b9b98d2db101f5ecf5b0') in 0.000784 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.005569 seconds.
+  path: Assets/New Tiles/tiles blue and white_397.asset
+  artifactKey: Guid(f2e32266cbd1ec142827239f5becbf6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_397.asset using Guid(f2e32266cbd1ec142827239f5becbf6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fea853725995c794d6b945c047cf8cc8') in 0.001072 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/New Tiles/tiles blue and white_403.asset
+  artifactKey: Guid(ebf7ca4615136e440aab20200ba94db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_403.asset using Guid(ebf7ca4615136e440aab20200ba94db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ca3a01259e307fa03d44f8370dc6425') in 0.000817 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/New Tiles/tiles blue and white_408.asset
+  artifactKey: Guid(6d05647545b35f04cabb1f21227daa04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_408.asset using Guid(6d05647545b35f04cabb1f21227daa04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d58dab4e3010befc4fc19afee075760') in 0.000658 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/New Tiles/tiles blue and white_413.asset
+  artifactKey: Guid(4a32001b2cf556f4ca7020bea990f038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_413.asset using Guid(4a32001b2cf556f4ca7020bea990f038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6148f35a8f2323e2611cadc47cc9c728') in 0.001007 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001764 seconds.
+  path: Assets/New Tiles/tiles blue and white_425.asset
+  artifactKey: Guid(022d970b607cf274b8819d36841e74ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_425.asset using Guid(022d970b607cf274b8819d36841e74ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9519a3e8bee94814858426f85c6d903') in 0.000856 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/New Tiles/tiles blue and white_432.asset
+  artifactKey: Guid(ee4206a4ad4d3044893646d5726aaab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_432.asset using Guid(ee4206a4ad4d3044893646d5726aaab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b924ee52d323b70af9a03371a16f7f09') in 0.001003 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001207 seconds.
+  path: Assets/New Tiles/tiles blue and white_441.asset
+  artifactKey: Guid(3325ae2481a7a4645a69f8b047e7e300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_441.asset using Guid(3325ae2481a7a4645a69f8b047e7e300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '221d8f4cfe56e61789540dde8e1712e1') in 0.000825 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.006781 seconds.
+  path: Assets/New Tiles/tiles blue and white_481.asset
+  artifactKey: Guid(31360551ca66d3946b7daed2f567616f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_481.asset using Guid(31360551ca66d3946b7daed2f567616f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e6a109f8c75c6edfd280a649f436b26') in 0.000986 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/New Tiles/tiles blue and white_487.asset
+  artifactKey: Guid(ed6616e5bd4a8ab438f4dd6c7af295d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_487.asset using Guid(ed6616e5bd4a8ab438f4dd6c7af295d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f58623b480710aeb005558199ecfc272') in 0.000674 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001213 seconds.
+  path: Assets/New Tiles/tiles blue and white_496.asset
+  artifactKey: Guid(f7025da3d9c3a6d4ea1521db555d68e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_496.asset using Guid(f7025da3d9c3a6d4ea1521db555d68e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f5bf82ed5d0697aa1341e8264cc9b0e') in 0.000841 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.002058 seconds.
+  path: Assets/New Tiles/tiles blue and white_509.asset
+  artifactKey: Guid(c475b9dca7cb820449e3201de2ede928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_509.asset using Guid(c475b9dca7cb820449e3201de2ede928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7682af2a3c78d037bdcceb5678998825') in 0.000653 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001607 seconds.
+  path: Assets/New Tiles/tiles blue and white_520.asset
+  artifactKey: Guid(a70fde4e8de512648a2cb8f1b06991c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_520.asset using Guid(a70fde4e8de512648a2cb8f1b06991c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17dea2eb4aececcc8c1046c602bdc52d') in 0.000809 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/New Tiles/tiles blue and white_526.asset
+  artifactKey: Guid(9a5362408fe68a4468142b9cda7255b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_526.asset using Guid(9a5362408fe68a4468142b9cda7255b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00923463303cdc0c9fdb8cbad8ddd27b') in 0.001141 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.006516 seconds.
+  path: Assets/New Tiles/tiles blue and white_539.asset
+  artifactKey: Guid(44f9fd01280983c4d95727ed05f54165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_539.asset using Guid(44f9fd01280983c4d95727ed05f54165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b7c3352cd015fb736d62b87305f83f1') in 0.001148 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.003184 seconds.
+  path: Assets/New Tiles/tiles red and white 2_18.asset
+  artifactKey: Guid(2ba6feb4ebdcb0c4eae084153c096812) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_18.asset using Guid(2ba6feb4ebdcb0c4eae084153c096812) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e92031fa1b058fe56eccb9f2bdb7d10f') in 0.001051 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.003689 seconds.
+  path: Assets/New Tiles/tiles red and white 2_39.asset
+  artifactKey: Guid(b431b35242b9fc442b36a03c61e8128c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_39.asset using Guid(b431b35242b9fc442b36a03c61e8128c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49a5b8aef20e0a7415a6f73508036127') in 0.001054 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/New Tiles/tiles red and white 2_45.asset
+  artifactKey: Guid(7c453c4ebccbe10418b54c0cd2f1d3c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_45.asset using Guid(7c453c4ebccbe10418b54c0cd2f1d3c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ff59565cb2e5e90cded59a6c7a11f53') in 0.000930 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.005646 seconds.
+  path: Assets/New Tiles/tiles red and white 2_54.asset
+  artifactKey: Guid(c1417ad851bec4b4cbf5fa815c351fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_54.asset using Guid(c1417ad851bec4b4cbf5fa815c351fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '832df4d674ded13349d267cc663aad58') in 0.001123 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/New Tiles/tiles red and white 2_60.asset
+  artifactKey: Guid(3517c1c8710cfc44083b6119fcca6008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_60.asset using Guid(3517c1c8710cfc44083b6119fcca6008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9384c80ca0e4a02d09096ebace23c012') in 0.000728 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001185 seconds.
+  path: Assets/New Tiles/tiles red and white 2_69.asset
+  artifactKey: Guid(5e02f592cc0bbf0489c1510eca60177f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_69.asset using Guid(5e02f592cc0bbf0489c1510eca60177f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ae4235908b7a77f8b9f8c845a81b7f8') in 0.002063 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.002346 seconds.
+  path: Assets/New Tiles/tiles red and white 2_87.asset
+  artifactKey: Guid(beb46d2ef5e7fc848a44efee43234062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_87.asset using Guid(beb46d2ef5e7fc848a44efee43234062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c95d7ee2d9fe4501b517e3b6a8cd7bd') in 0.001146 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001094 seconds.
+  path: Assets/New Tiles/tiles red and white 2_98.asset
+  artifactKey: Guid(417dbee4b30ba6847846deffad702099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_98.asset using Guid(417dbee4b30ba6847846deffad702099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8847426ace9d7ef0c75137b4ac43192') in 0.001068 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.008076 seconds.
+  path: Assets/New Tiles/tiles red and white 2_113.asset
+  artifactKey: Guid(6028712ffa247984985d90c25f54a702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_113.asset using Guid(6028712ffa247984985d90c25f54a702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1e9c1f2c80f802b7f7cdf0ff69bbc43') in 0.001124 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/New Tiles/tiles red and white 2_119.asset
+  artifactKey: Guid(b2bc357b14d6cb147a36bf6cf6dc1df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_119.asset using Guid(b2bc357b14d6cb147a36bf6cf6dc1df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbbae50eabdb7178fc37a20012662304') in 0.000720 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.002980 seconds.
+  path: Assets/New Tiles/tiles red and white 2_135.asset
+  artifactKey: Guid(fc5ef3a923935df4c9565160b94f8522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_135.asset using Guid(fc5ef3a923935df4c9565160b94f8522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2a4edac47870284622e93dde7aca07f') in 0.001089 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/New Tiles/tiles red and white 2_142.asset
+  artifactKey: Guid(8cbe84866b4af9b4f91550a3e3179307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_142.asset using Guid(8cbe84866b4af9b4f91550a3e3179307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72b76d8f9d86b9f7d112ae50bbe423f1') in 0.000919 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.006362 seconds.
+  path: Assets/New Tiles/tiles red and white 2_152.asset
+  artifactKey: Guid(e40d4bbfa63ab8a43b59afc26ddcf7f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_152.asset using Guid(e40d4bbfa63ab8a43b59afc26ddcf7f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a55a3022262bb6c28bf1a3867e391271') in 0.000910 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000578 seconds.
+  path: Assets/New Tiles/tiles red and white 2_159.asset
+  artifactKey: Guid(87cfa5bb90395754d88bad6b720c19b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_159.asset using Guid(87cfa5bb90395754d88bad6b720c19b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a051e385e41192bb835233c420de1db8') in 0.000700 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000473 seconds.
+  path: Assets/New Tiles/tiles red and white 2_165.asset
+  artifactKey: Guid(9ca77a0b829703b41a24b2742a44cb30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_165.asset using Guid(9ca77a0b829703b41a24b2742a44cb30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d521cfef9d22b7c2f1dca87a1375c0f') in 0.000752 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.010867 seconds.
+  path: Assets/New Tiles/tiles red and white 2_207.asset
+  artifactKey: Guid(1a42a6216e1269848831c8425c970a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_207.asset using Guid(1a42a6216e1269848831c8425c970a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7496c2fa409e64e75951212f8d3af93') in 0.000869 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.002761 seconds.
+  path: Assets/New Tiles/tiles red and white 2_223.asset
+  artifactKey: Guid(d6d3101eb8173f0498649a517941c61a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_223.asset using Guid(d6d3101eb8173f0498649a517941c61a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81027a5cdceb61c0c378441fa0930984') in 0.000727 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000448 seconds.
+  path: Assets/New Tiles/tiles red and white 2_229.asset
+  artifactKey: Guid(a5207f4ec38ab6247af6ae1d23b68c88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_229.asset using Guid(a5207f4ec38ab6247af6ae1d23b68c88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12a72a887db7a9c2b15a0dbe080804c4') in 0.000648 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.005617 seconds.
+  path: Assets/New Tiles/tiles red and white 2_256.asset
+  artifactKey: Guid(026b710ce7bb3f64296f1154ac4649f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_256.asset using Guid(026b710ce7bb3f64296f1154ac4649f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eaa6d665dd5b385affa7238339c869d') in 0.000730 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.005281 seconds.
+  path: Assets/New Tiles/tiles red and white 2_264.asset
+  artifactKey: Guid(9cace0a5be8fc8e40a3bb5c46f2da277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_264.asset using Guid(9cace0a5be8fc8e40a3bb5c46f2da277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e960af62e9ec641d1b7d6f16a31ac63') in 0.000683 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001411 seconds.
+  path: Assets/New Tiles/tiles red and white 2_273.asset
+  artifactKey: Guid(840201f690816d1409da0fffab662841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_273.asset using Guid(840201f690816d1409da0fffab662841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06f78bcf7d1c41a538bf465098cc2ebb') in 0.001148 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.004368 seconds.
+  path: Assets/New Tiles/tiles red and white 2_297.asset
+  artifactKey: Guid(15b46f3e7e2543b4b8e18ef78ff8fec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_297.asset using Guid(15b46f3e7e2543b4b8e18ef78ff8fec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd98696aa99f3cefc9db575a61d8afac') in 0.001092 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.008488 seconds.
+  path: Assets/New Tiles/tiles red and white 2_320.asset
+  artifactKey: Guid(9883854d17c06e843b74cc46483c0e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_320.asset using Guid(9883854d17c06e843b74cc46483c0e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '224ec41fd8286a4dcc5e7c0e26435b82') in 0.000947 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/New Tiles/tiles red and white 2_328.asset
+  artifactKey: Guid(84fe7a59492ca094f9c68664b65f54d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_328.asset using Guid(84fe7a59492ca094f9c68664b65f54d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd129fabaeed3b189978a9bc47ae45280') in 0.000664 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/New Tiles/tiles red and white 2_333.asset
+  artifactKey: Guid(d0c0c6bf058a9bf45a7df198d631207f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_333.asset using Guid(d0c0c6bf058a9bf45a7df198d631207f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd87f26d91c371bfd5284553b3a05c4ea') in 0.000637 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/New Tiles/tiles red and white 2_337.asset
+  artifactKey: Guid(322316656624c0645b9bcaae10bf72a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_337.asset using Guid(322316656624c0645b9bcaae10bf72a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17ed59c10606f4df5e6bcefa5a60b2fd') in 0.000633 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000783 seconds.
+  path: Assets/New Tiles/tiles red and white 2_344.asset
+  artifactKey: Guid(4b518720ddad6154faf5e06d4c31a827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_344.asset using Guid(4b518720ddad6154faf5e06d4c31a827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8be70649fa7da9884cfe0ced49f3ec60') in 0.001152 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001463 seconds.
+  path: Assets/New Tiles/tiles red and white 2_356.asset
+  artifactKey: Guid(bd50d716f1cd49241b6eef0c8d9cffd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_356.asset using Guid(bd50d716f1cd49241b6eef0c8d9cffd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbfbf26970122d51c26d71aa4b56eb7c') in 0.000841 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001793 seconds.
+  path: Assets/New Tiles/tiles red and white 2_368.asset
+  artifactKey: Guid(5d9849e7168de7549977074767a8ddc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_368.asset using Guid(5d9849e7168de7549977074767a8ddc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '933e2da40cfbc59850af77b3dfb0927b') in 0.000852 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.005625 seconds.
+  path: Assets/New Tiles/tiles red and white 2_376.asset
+  artifactKey: Guid(feb762d82e241d544b0dc3814dabdcce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_376.asset using Guid(feb762d82e241d544b0dc3814dabdcce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '549704fdf732855360df7e6613bcf3f8') in 0.000983 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001153 seconds.
+  path: Assets/New Tiles/tiles red and white 2_387.asset
+  artifactKey: Guid(7c4e0f76b10cafc45b8e47183c1deb57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_387.asset using Guid(7c4e0f76b10cafc45b8e47183c1deb57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5240b9d4c68bce61a7bb04ea06852a90') in 0.000673 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001489 seconds.
+  path: Assets/New Tiles/tiles red and white 2_398.asset
+  artifactKey: Guid(4ebbf10df80ac314d9a17191630b3cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_398.asset using Guid(4ebbf10df80ac314d9a17191630b3cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e43e2358806906297f110c1b493fb01e') in 0.000642 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.009724 seconds.
+  path: Assets/New Tiles/tiles red and white 2_418.asset
+  artifactKey: Guid(8357e8ffb1992834db77ad278f83f4ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_418.asset using Guid(8357e8ffb1992834db77ad278f83f4ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6683c1de6f65bd2fa89ee4fdd37634e') in 0.001194 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/New Tiles/tiles red and white 2_424.asset
+  artifactKey: Guid(c9ee9f6aad32a4b42a06753efe13cebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_424.asset using Guid(c9ee9f6aad32a4b42a06753efe13cebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28df1568d649b3fae6adbdf922e82924') in 0.000716 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001542 seconds.
+  path: Assets/New Tiles/tiles red and white_3.asset
+  artifactKey: Guid(daf2c203aa007a047a54c54a4af44481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_3.asset using Guid(daf2c203aa007a047a54c54a4af44481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '551d283dd5a63357dca3a1668c4eca74') in 0.000779 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/New Tiles/tiles red and white_7.asset
+  artifactKey: Guid(9c00f5980e67b76498ca7041b5cca655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_7.asset using Guid(9c00f5980e67b76498ca7041b5cca655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8045e036d3b2fa175549ff7a18119640') in 0.000689 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.006387 seconds.
+  path: Assets/New Tiles/tiles red and white_14.asset
+  artifactKey: Guid(8ff120d60925bcb43a77ab65307c77cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_14.asset using Guid(8ff120d60925bcb43a77ab65307c77cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd3bc38dc7ab4e8dccf00f71337d784b') in 0.001114 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000728 seconds.
+  path: Assets/New Tiles/tiles red and white_22.asset
+  artifactKey: Guid(2a01970af125e314995aae0df718ae58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_22.asset using Guid(2a01970af125e314995aae0df718ae58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64d3915e8e83b74cfca12ed79c98625d') in 0.000754 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001141 seconds.
+  path: Assets/New Tiles/tiles red and white_31.asset
+  artifactKey: Guid(f3ff9aa3b22af164eac383df8b037435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_31.asset using Guid(f3ff9aa3b22af164eac383df8b037435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '701179556b4a63a9c2782b5e67be9798') in 0.000783 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.007550 seconds.
+  path: Assets/New Tiles/tiles red and white_42.asset
+  artifactKey: Guid(1342c245abd21f74abc17949b8928fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_42.asset using Guid(1342c245abd21f74abc17949b8928fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d1990c282350516131cab4737ef7542') in 0.001098 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.006924 seconds.
+  path: Assets/New Tiles/tiles red and white_56.asset
+  artifactKey: Guid(4ed769601c248bf4b935ad4083a99ff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_56.asset using Guid(4ed769601c248bf4b935ad4083a99ff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43a3d324ff452264dc8d4df8580a8093') in 0.001221 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/New Tiles/tiles red and white_63.asset
+  artifactKey: Guid(5046dab23c0044c4cafbfbfdb998d81b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_63.asset using Guid(5046dab23c0044c4cafbfbfdb998d81b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01ffda904c309b2fbd592d1febf05237') in 0.001009 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/New Tiles/tiles red and white_69.asset
+  artifactKey: Guid(d2840908ede572b42badd115cabd90fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_69.asset using Guid(d2840908ede572b42badd115cabd90fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d61e3209d4552dd74b92830688adeb4') in 0.000701 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.009074 seconds.
+  path: Assets/New Tiles/tiles red and white_86.asset
+  artifactKey: Guid(77acbba31b9b2a74bb8ae9791143fe20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_86.asset using Guid(77acbba31b9b2a74bb8ae9791143fe20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa66fa7be74f81a01fdbe46cd6045971') in 0.001151 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001348 seconds.
+  path: Assets/New Tiles/tiles red and white_99.asset
+  artifactKey: Guid(e2384da7c69a55f468894147aa4435a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_99.asset using Guid(e2384da7c69a55f468894147aa4435a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '673037ea01d85ee2618327c1099c2ab2') in 0.001135 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/New Tiles/tiles red and white_105.asset
+  artifactKey: Guid(ec4c52912b154304684709478d50099a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_105.asset using Guid(ec4c52912b154304684709478d50099a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9a2b4d1dd96bb7cd2b16baafcc5bade') in 0.000849 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.006250 seconds.
+  path: Assets/New Tiles/tiles red and white_112.asset
+  artifactKey: Guid(d69013b86fa32ee48bb06a8c22ad9509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_112.asset using Guid(d69013b86fa32ee48bb06a8c22ad9509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ac345bbbf51c906e3b2a02442f6b8ad') in 0.000725 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.011261 seconds.
+  path: Assets/New Tiles/tiles red and white_140.asset
+  artifactKey: Guid(281f9547d5896494ba564244f4969c28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_140.asset using Guid(281f9547d5896494ba564244f4969c28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3146e98c230d0114f39bd36779dd11d8') in 0.001221 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.002906 seconds.
+  path: Assets/New Tiles/tiles red and white_158.asset
+  artifactKey: Guid(e344165db8cbb3844ac5ae9378678ad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_158.asset using Guid(e344165db8cbb3844ac5ae9378678ad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0abf4a5673af0e40222324bbe9b869d') in 0.000872 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.007161 seconds.
+  path: Assets/New Tiles/tiles red and white_168.asset
+  artifactKey: Guid(eaf1c064705acdb4f9e9c5de116cebee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_168.asset using Guid(eaf1c064705acdb4f9e9c5de116cebee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0be20d32da493e085de317aad0992e71') in 0.001060 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001726 seconds.
+  path: Assets/New Tiles/tiles red and white_181.asset
+  artifactKey: Guid(12cedffea1133c9449b11b066be0f682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_181.asset using Guid(12cedffea1133c9449b11b066be0f682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8063cc1be551e28fe06393c3da5be20a') in 0.000773 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000720 seconds.
+  path: Assets/New Tiles/tiles red and white_189.asset
+  artifactKey: Guid(4ae85eceeece1414e93792c4a3ae636a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_189.asset using Guid(4ae85eceeece1414e93792c4a3ae636a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3d2f2560b62d79370e1a347b8280dbc') in 0.001194 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.005378 seconds.
+  path: Assets/New Tiles/tiles red and white_196.asset
+  artifactKey: Guid(0407e8bb58d6193488142b8aa0e476a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_196.asset using Guid(0407e8bb58d6193488142b8aa0e476a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a992b9728a9d967f797f71996f390f5a') in 0.000791 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.002933 seconds.
+  path: Assets/New Tiles/tiles red and white_212.asset
+  artifactKey: Guid(71ebd18f2abc4c84a9f25c09e37b42ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_212.asset using Guid(71ebd18f2abc4c84a9f25c09e37b42ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63b8a0186ca03e628373f90c2b519154') in 0.001533 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.006698 seconds.
+  path: Assets/New Tiles/tiles red and white_226.asset
+  artifactKey: Guid(f3172665a87b27447af1a51291069771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_226.asset using Guid(f3172665a87b27447af1a51291069771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faf536f4c0f7d1a74237fe554eb105b1') in 0.000947 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001272 seconds.
+  path: Assets/New Tiles/tiles red and white_236.asset
+  artifactKey: Guid(d326460ed436cc74991223719d95dc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_236.asset using Guid(d326460ed436cc74991223719d95dc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83afefc34561f4bebb947df1a7a21ade') in 0.000715 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.002463 seconds.
+  path: Assets/New Tiles/tiles red and white_249.asset
+  artifactKey: Guid(5d11dd90588fe0e4da399ac6c497d01b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_249.asset using Guid(5d11dd90588fe0e4da399ac6c497d01b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5fa66fc3e9c78d081ecf1093f0e30b7') in 0.001158 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.010617 seconds.
+  path: Assets/New Tiles/tiles red and white_270.asset
+  artifactKey: Guid(0e7e4c8f938a28945b967dd6c5809c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_270.asset using Guid(0e7e4c8f938a28945b967dd6c5809c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a6901e1c61655e4a4d5c75ca81e39c3') in 0.000975 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001384 seconds.
+  path: Assets/New Tiles/tiles red and white_281.asset
+  artifactKey: Guid(6fddca21295f99f4096fd1ed4a3704e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_281.asset using Guid(6fddca21295f99f4096fd1ed4a3704e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fade0c3d511440c019b9bb40eab52a55') in 0.000739 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/New Tiles/tiles red and white_287.asset
+  artifactKey: Guid(c4b7c7b51c6d5744fbedbfcd12c52b1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_287.asset using Guid(c4b7c7b51c6d5744fbedbfcd12c52b1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff28cdcbdac77d6c2488623aa06c53f1') in 0.000711 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.009125 seconds.
+  path: Assets/New Tiles/tiles red and white_308.asset
+  artifactKey: Guid(3b868b3b01a63bc42abf932ccc6cdb31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_308.asset using Guid(3b868b3b01a63bc42abf932ccc6cdb31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6548e658675d121ee6e8ea8e8c5ced0') in 0.001190 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/New Tiles/tiles red and white_314.asset
+  artifactKey: Guid(684ebbb4828fd9544b4467264015012d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_314.asset using Guid(684ebbb4828fd9544b4467264015012d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb0f73ae04e90b54b40b4ccaa7a06e3c') in 0.000687 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001932 seconds.
+  path: Assets/New Tiles/tiles red and white_326.asset
+  artifactKey: Guid(99eb02b031f89894790ad77c1d2a996e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_326.asset using Guid(99eb02b031f89894790ad77c1d2a996e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5c7c51661b22a25829c46e87b1226cf') in 0.000947 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.010787 seconds.
+  path: Assets/New Tiles/tiles red and white_350.asset
+  artifactKey: Guid(571b15b4f17bac149b4f7227d551a2f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_350.asset using Guid(571b15b4f17bac149b4f7227d551a2f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ed79d610738a95c960a42b0b0275be0') in 0.001241 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001526 seconds.
+  path: Assets/New Tiles/tiles red and white_362.asset
+  artifactKey: Guid(dd5194abba28a354da9077d4b7fe5edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_362.asset using Guid(dd5194abba28a354da9077d4b7fe5edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95ea005f2ed86f57a2aea9650943a551') in 0.000863 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001816 seconds.
+  path: Assets/New Tiles/tiles red and white_374.asset
+  artifactKey: Guid(2e800f5e9111ea24e96c5dded3713bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_374.asset using Guid(2e800f5e9111ea24e96c5dded3713bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e8aa5710a1ba31f41524531d3eb15a9') in 0.001066 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.010819 seconds.
+  path: Assets/New Tiles/tiles red and white_403.asset
+  artifactKey: Guid(65140511b321dbc43a0c7c6473159e9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_403.asset using Guid(65140511b321dbc43a0c7c6473159e9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10f852c21fe2b520a6c21e9232289357') in 0.001002 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000477 seconds.
+  path: Assets/New Tiles/tiles red and white_411.asset
+  artifactKey: Guid(6ab5b1481fb15f045b66faa96a9f41ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white_411.asset using Guid(6ab5b1481fb15f045b66faa96a9f41ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '990d030e61488f9004459be8fd7b10c4') in 0.000932 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.011479 seconds.
+  path: Assets/New Tiles/tileset random_7.asset
+  artifactKey: Guid(d817641ec0147624c8c1f3b68bc03f49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tileset random_7.asset using Guid(d817641ec0147624c8c1f3b68bc03f49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '832366755bcc8c8b89f039e29cdfa043') in 0.000833 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001546 seconds.
+  path: Assets/New Tiles/tileset random_18.asset
+  artifactKey: Guid(760bfea94ff8ad84ead3162f78df5f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tileset random_18.asset using Guid(760bfea94ff8ad84ead3162f78df5f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3e04f657c254ce75f15676e66477c46') in 0.001131 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.007258 seconds.
+  path: Assets/New Tiles/tileset random_31.asset
+  artifactKey: Guid(355faf3f807d57c4aaee0681a21d17d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tileset random_31.asset using Guid(355faf3f807d57c4aaee0681a21d17d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a16d91827aceea45cf67efac17f8844') in 0.000879 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.002729 seconds.
+  path: Assets/New Tiles/tileset random_47.asset
+  artifactKey: Guid(d9a1bdd731bdc904d98cc32ac7faa4df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tileset random_47.asset using Guid(d9a1bdd731bdc904d98cc32ac7faa4df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '650f358a79e3afdf6060dec5ded8d16b') in 0.001163 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.006625 seconds.
+  path: Assets/New Tiles/tileset random_58.asset
+  artifactKey: Guid(93d68b990d8d91d4cbb07562e1f3a081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tileset random_58.asset using Guid(93d68b990d8d91d4cbb07562e1f3a081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd353a104f16091684477d0a025f6ead') in 0.001131 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.007638 seconds.
+  path: Assets/New Tiles/tileset random_72.asset
+  artifactKey: Guid(001b5d9c30f12e74cbe78852532e02a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tileset random_72.asset using Guid(001b5d9c30f12e74cbe78852532e02a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6b51071c014907024ec8ce3fc1d9498') in 0.001147 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/New Tiles/tileset random_79.asset
+  artifactKey: Guid(34e9cef939b3d564e9a2bfc41d7a0599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tileset random_79.asset using Guid(34e9cef939b3d564e9a2bfc41d7a0599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d7b4a17eb038da1d8781a7b297bed1b') in 0.000754 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.006862 seconds.
+  path: Assets/New Tiles/tileset random_88.asset
+  artifactKey: Guid(0d0ef1911a994e0409685c899c03c555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tileset random_88.asset using Guid(0d0ef1911a994e0409685c899c03c555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd69ff02b1753104c03c5d3e3bffaff9c') in 0.001123 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.007284 seconds.
+  path: Assets/New Tiles/tileset random_100.asset
+  artifactKey: Guid(97b96784dd1c83640b8dba72b26db265) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tileset random_100.asset using Guid(97b96784dd1c83640b8dba72b26db265) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4305261dd72d351c3b2379c9c969a18') in 0.001172 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/New Tiles/tileset random_107.asset
+  artifactKey: Guid(7eae411ed9466a94a8ea1c06bfb3cdf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tileset random_107.asset using Guid(7eae411ed9466a94a8ea1c06bfb3cdf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f1aab94dfd3ad88bf03d7600233f149') in 0.000747 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.005994 seconds.
+  path: Assets/New Tiles/tileset random_114.asset
+  artifactKey: Guid(afa105a19a28d4248a83e7e986a64468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tileset random_114.asset using Guid(afa105a19a28d4248a83e7e986a64468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1893f5f6a9806983d7891e530402193d') in 0.001155 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/New Tiles/tileset random_120.asset
+  artifactKey: Guid(a8c1fec1e4f58b14c9b65b797db2fc27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tileset random_120.asset using Guid(a8c1fec1e4f58b14c9b65b797db2fc27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79f1293c134cca335f26e9ec82802ab6') in 0.000718 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.006343 seconds.
+  path: Assets/New Tiles/tileset random_128.asset
+  artifactKey: Guid(a67570b0a53176a46a5e8d4e4c3c6ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tileset random_128.asset using Guid(a67570b0a53176a46a5e8d4e4c3c6ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c0aef72de29a0f89ad9d3146fc43e1b') in 0.001197 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.007536 seconds.
+  path: Assets/New Tiles/tileset random_142.asset
+  artifactKey: Guid(aedf7947f97001041b8cff8933babbc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tileset random_142.asset using Guid(aedf7947f97001041b8cff8933babbc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '048e83f59d34616e7211c8c76a2cbb31') in 0.001094 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/New Tiles/tileset random_150.asset
+  artifactKey: Guid(ec3349e9ba092954594d765563cdea56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tileset random_150.asset using Guid(ec3349e9ba092954594d765563cdea56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90e2c76af7acb3b3f08ca37afc265a5f') in 0.001577 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.005440 seconds.
+  path: Assets/New Tiles/tileset random_156.asset
+  artifactKey: Guid(49fa878ba8920b9429814745e4e5c459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tileset random_156.asset using Guid(49fa878ba8920b9429814745e4e5c459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3d88693d46c99a9e5fddaf68ca75c6e') in 0.001026 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000643 seconds.
+  path: Assets/New Tiles/tileset random_164.asset
+  artifactKey: Guid(ca1d9b2af0d0f9b4393b9d25dff6fdf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tileset random_164.asset using Guid(ca1d9b2af0d0f9b4393b9d25dff6fdf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ba64f54c0e68d756496fc4354f932c7') in 0.001038 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.006067 seconds.
+  path: Assets/New Tiles/tileset random_172.asset
+  artifactKey: Guid(c0a06900617da1f49b14c3dbaab1496b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tileset random_172.asset using Guid(c0a06900617da1f49b14c3dbaab1496b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9a16a1d260074f5d5c47b43beadb55a') in 0.001136 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.007865 seconds.
+  path: Assets/New Tiles/tileset random_185.asset
+  artifactKey: Guid(f3c7c3f590767d74088009ac22243dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tileset random_185.asset using Guid(f3c7c3f590767d74088009ac22243dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01ce64e45bd43ad13a3f36ea68623748') in 0.001076 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.008155 seconds.
+  path: Assets/New Tiles/tileset random_200.asset
+  artifactKey: Guid(cebbbd233262f4b478bbd006da537340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tileset random_200.asset using Guid(cebbbd233262f4b478bbd006da537340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa71df786d9778b525f40230e253efe9') in 0.000924 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.011485 seconds.
+  path: Assets/New Tiles/tileset random_212.asset
+  artifactKey: Guid(2d909f1c57f24814f978ccd1af1238dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tileset random_212.asset using Guid(2d909f1c57f24814f978ccd1af1238dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3b3d37df033db9062fa6913ab9e0799') in 0.000812 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.480826 seconds.
+  path: Assets/New Tiles/tiles red and white 2_194.asset
+  artifactKey: Guid(a397eb9a3c532b24cacd83134d3d0781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_194.asset using Guid(a397eb9a3c532b24cacd83134d3d0781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12227af1cb929b3d9e0d641e51226da1') in 0.001380 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/New Tiles/tiles red and white 2_195.asset
+  artifactKey: Guid(70ee6320c3a9faf4198765d23741d8ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles red and white 2_195.asset using Guid(70ee6320c3a9faf4198765d23741d8ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9df0f808714b8d347c2974f68343f7c0') in 0.000720 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.032023 seconds.
+  path: Assets/New Tiles/tiles blue and white_467.asset
+  artifactKey: Guid(85b94ed650016284a9c827c204b2571a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_467.asset using Guid(85b94ed650016284a9c827c204b2571a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f82b91277f2390a3b534aa74260d23d5') in 0.000763 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000565 seconds.
+  path: Assets/New Tiles/tiles blue and white_473.asset
+  artifactKey: Guid(cf2a9b799ea82014db40c7dea8d304b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_473.asset using Guid(cf2a9b799ea82014db40c7dea8d304b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18db4c9c11c3d3dfea24f54442112a3a') in 0.001076 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.007786 seconds.
+  path: Assets/New Tiles/tiles blue and white_454.asset
+  artifactKey: Guid(7ac6c9ef41cf5794099a9366830a16b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_454.asset using Guid(7ac6c9ef41cf5794099a9366830a16b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b764bb718278db3766fec8648ff825eb') in 0.001152 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.007322 seconds.
+  path: Assets/New Tiles/tiles blue and white_385.asset
+  artifactKey: Guid(739d98716322457489846cb4d3a9b59a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_385.asset using Guid(739d98716322457489846cb4d3a9b59a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '680884dfa4dc26eebd437771675822dd') in 0.001116 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/New Tiles/tiles blue and white_391.asset
+  artifactKey: Guid(df79e6b05c0cd3a45a1d73a01ecff0f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Tiles/tiles blue and white_391.asset using Guid(df79e6b05c0cd3a45a1d73a01ecff0f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06c23f97198fbcfbe98f4d1520116b96') in 0.000671 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
