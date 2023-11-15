@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,10 +113,10 @@ TextureImporter:
       name: candy cane for edges_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 292
-        height: 392
+        x: 5
+        y: 378
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,8 +124,5867 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f219e476094ac0478f9f379bef142a8
-      internalID: -1113218243
+      spriteID: 0c47404e1e22b0c4491975d555e6e15f
+      internalID: -1505224784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 378
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9a0881cfd40db45bebef27cddb671e
+      internalID: 2097386457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 378
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995df17f9e8db0c408c1b47abee44b69
+      internalID: -1167851545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 378
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b44f0c16493be48a256127ec494a62
+      internalID: -691963364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_4
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 378
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26893b1fc3eef1842a14ac8140ea6ab6
+      internalID: 294656440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 378
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed3f5521e60fda44a161d2301bb9706
+      internalID: 269936506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_6
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 378
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db0b1d8a3927c448870f503339e8f06
+      internalID: 1231954056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 378
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6096fbb6fddf6c348add65112b40ff77
+      internalID: 1172530115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_8
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 378
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82a81224c012174199508baf75cd5b7
+      internalID: -1036018774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 378
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9867e40ac7e692d4e8fe61a6f97b66f3
+      internalID: 1415711520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 364
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ff83ef569d6af4696d381ddff53548
+      internalID: -338645239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 364
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23325f65295edfb459ae4952f3dccec2
+      internalID: 709376374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 364
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b966d707f5b7004c83071d0e99d299a
+      internalID: 804446946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 364
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1d5134f48cb1d48a1d8e0ea8f9e1cc
+      internalID: 740669826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 364
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118d54c2845de3c41bdd48950e6a16f0
+      internalID: -1460274880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 364
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65e2bd10496bda419bfad8c99990eff
+      internalID: -2000455398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 364
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434433f9169eb354a9932bc078fa0c9d
+      internalID: 83443544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 364
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710046e849565c14aac232ecf6fd0709
+      internalID: 178279082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 364
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1e9ead929eb2e4daba65b717ca0d1c
+      internalID: 1876809396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 364
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d325143bf24a224993a3ee373b80cd5
+      internalID: 1481121045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 350
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd96c5a35654df44b1a49944b0fb70d
+      internalID: 1882852041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 350
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdccdea6ac8f6246a0be4db7dae0efe
+      internalID: -1022152319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 350
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48302ffb4a01f364fb86bb2a3b424086
+      internalID: -1999793264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_23
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 350
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e284f2c10e717e4780e11fdd49c74b0
+      internalID: -1040890169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_24
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 350
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601c5d58aa1530c409296f4a06985104
+      internalID: -283683500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 350
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34d89d381c062348b86bd54836f07d9
+      internalID: 1651350687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_26
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 350
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e3087efbf6b99429aaee7b5a48e2e9
+      internalID: -561203852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 350
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2eca32ff433329418de18ad3ae6f8a5
+      internalID: 329418967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_28
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 350
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5535e6a65329c24e91fe70e41411f76
+      internalID: -1524277720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_29
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 350
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5e74d6ecc3ca44d8534c8b77b15e6c
+      internalID: -1746126794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 336
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2348dc3601a14542bbcd13ecc53952c
+      internalID: -356488458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_31
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 336
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e729b11740c3f7409a198a1398d1f2f
+      internalID: 1142133813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_32
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 336
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e50addf8409214296e40c8e3414bc7
+      internalID: -2059605329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 336
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2fd057d42b9de499fee46958ad6800
+      internalID: -313135452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_34
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 336
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7097bea260c8ec4aa70855787bb416f
+      internalID: 345353652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_35
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 336
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cae1d0f7cd89bd44b7fbdbd69cf07df
+      internalID: -1632896195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_36
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 336
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51762e13213cdf4bbb9c6e1dc5ab047
+      internalID: -1934418987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_37
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 336
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b31899188081cc41b382a2fb79b76bd
+      internalID: -210446124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_38
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 336
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9911ff1504b80f4981cb19cde189f6f
+      internalID: 777487430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_39
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 336
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec21b3f25e90544cbf193290c12ea5b
+      internalID: -273530026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 322
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eebe6e8a1926ea43b5e65cd702f2a4c
+      internalID: -1857437695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_41
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 322
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf7404d64c1d604aad78060b5dd187b
+      internalID: 190165569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_42
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 322
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5e11cba0e7c574da9afde1c386bdf6
+      internalID: 230970530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_43
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 322
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7580ae33d05aa494681c2e85cdbf4953
+      internalID: -1661668396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_44
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 322
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2743ac42527df32449a7a10bb07a05f7
+      internalID: 1989868352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_45
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 322
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fd7ddd602801149902c1f6ae2f2c7e
+      internalID: -744808550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_46
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 322
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45406799d391efc4e8997a4be7f4ae5c
+      internalID: -1734815023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_47
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 322
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b5f3424fe365c428ed1193c8d13c03
+      internalID: -940623707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_48
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 322
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e534839bb5cf349a7f6ba676409c3e
+      internalID: 1397297500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_49
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 322
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16687906a56b7c64dbe24e7e56caeba6
+      internalID: -129485285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51abc8df9c9d394d9bb3f506855a9eb
+      internalID: 720460881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_51
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f4d649101d911498c75cb78bfa65ec
+      internalID: -345420932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_52
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90edc413db7c2b143b9c28f4f8dc90a2
+      internalID: 1751045712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_53
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6699aab557b870f498be5600fd27aaf9
+      internalID: -755532735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_54
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdb791c84cef9c4985aa99ec4219c2b
+      internalID: -1130599338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_55
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f5d22043a797f4684316adf72970d7
+      internalID: -248073039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_56
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc6f8a5b6bb35744a76ec9ed0e167c5
+      internalID: -1020443786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_57
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551ed855868d89546ace5139ee7acea6
+      internalID: -1659531767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_58
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfab7ddb43dcf94409951767596ad12a
+      internalID: -1350864131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_59
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98cc5080feb052448f8ec9fc7c1c878
+      internalID: -691576652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 294
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe61d5eaca71f34eb3306af1ae0c09b
+      internalID: -2056761922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_61
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 294
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d91a96e6af7d643860e65c28a42139
+      internalID: 1583558710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_62
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 294
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08858c1d189b8074e9793ff8a065e12a
+      internalID: -1977238915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_63
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 294
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39a006f52f488f4dbebcd8ed796826b
+      internalID: 1923170688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_64
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 294
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119a0ddb62b63514c9cda089f51bd516
+      internalID: 151256344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_65
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 294
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b052db8105ee1478de4dd986b338ae
+      internalID: -1904218406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_66
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 294
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9740124d74dcdda4891831898f6fd4c5
+      internalID: 571233666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_67
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 294
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032a7138457f6834aba796f37b79485a
+      internalID: -1736533727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_68
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 294
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7194071f9590b8049a8c9f38a2db1226
+      internalID: -1771097811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_69
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 294
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8417ed170f1881b47b01bc48a585b81d
+      internalID: -770615719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 280
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d29f3d3d29827a44bc0c9e14f0289ba
+      internalID: -1057906317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_71
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 280
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065b9318cdec32744bbf1dde55610b79
+      internalID: 1975639565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_72
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 280
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80d0a61475cd41418382fd700bd5b70
+      internalID: -1561146942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_73
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 280
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a3fc5ce82a2d546afd9a8a694e84a5
+      internalID: 1799633224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_74
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 280
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598e36112ec035f4ca0a89ee15110ed9
+      internalID: 453066990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_75
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 280
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1936cbbd6d29d84f9e701d5e8d24da0
+      internalID: -1226423983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_76
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 280
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f02ca06e439a5648b7c1cc36db93299
+      internalID: 1351664947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_77
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 280
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2cd955e3ba3a7429219ca79b26d6f9
+      internalID: 510931868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_78
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 280
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dcaa4dcc3d6354db1e4d40ced98d3c
+      internalID: -2137775979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_79
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 280
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169bf32159fed7a4dbaaa6dd9643cd45
+      internalID: 225590024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 266
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7ac4a76cf834e42866adb26c6b478a
+      internalID: 1999543803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_81
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 266
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc37fe28e08ca344a96bba9ee31e4659
+      internalID: 670998185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_82
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 266
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ef239674dfd5047a7f833a8525b403
+      internalID: -904164305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_83
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 266
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8501ef810d24e42bbe67ab60c17653
+      internalID: -1531217184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_84
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 266
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8963e63ab2dfbe4c812a7c3788a74bb
+      internalID: 59447570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_85
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 266
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc05cba64a7e5847a6920dc48c0c85c
+      internalID: 184810400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_86
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 266
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f7efc488b8a2646b5488a5b37869f2
+      internalID: -636483223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_87
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 266
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2446b7bae21eab740b085e16abc99203
+      internalID: -667979522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_88
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 266
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fbf16e26fa4d44095dc690e13f8ac0
+      internalID: -1610174496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_89
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 266
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb441b6d1ff8e76418fabdf4780dd3a1
+      internalID: 1027553023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_90
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 252
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18371e60447a50844b7a8591bda48b41
+      internalID: -1667164970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_91
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 252
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512e1ca9bf877b149b14852ff786de66
+      internalID: 1265028832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_92
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 252
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9961d19eb11f8844a2cf397e91b2cff
+      internalID: -16053353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_93
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 252
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d2a72e965c2bc4a9e66d840c120fd5
+      internalID: -938492483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_94
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 252
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855eb5fcfdc10954bbc6701d7a232a41
+      internalID: 1663829223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_95
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 252
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6299e069327482747a949b43b7f0fb73
+      internalID: 1407855501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_96
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 252
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448200c93102d4443822e3f5f9666be0
+      internalID: 53197383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_97
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 252
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936c0750b592bd84d9b168917fd75918
+      internalID: -1731148792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_98
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 252
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44eea635aba4f3a4b91afc632d4e7c45
+      internalID: 1828874331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_99
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 252
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73120a6ecb06584c9eec0e1bab18584
+      internalID: -984194298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_100
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 238
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445f241ce7e682041b6c9bba5be2525f
+      internalID: 710799010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_101
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 238
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6f50c3e44633f40a1f26f6192ad775
+      internalID: -26861153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_102
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 238
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b10fc96c3e8cb438085109b83aa35d
+      internalID: -1555938203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_103
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 238
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8293125ae33afdd42be10f80ed92a9af
+      internalID: -1427418558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_104
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 238
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eed0e9de7665854fbf379501cb1cb0d
+      internalID: 86715497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_105
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 238
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c421661e02df294ea4fd89e38e1b434
+      internalID: -1383273247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_106
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 238
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c5cf2d164023144bb73e57c9ffa6c9
+      internalID: -315797918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_107
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 238
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8786ad687dc654cbc809ffed2447b3
+      internalID: 369691500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_108
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 238
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09034602a1ee82d40998f8da2fa7dbb2
+      internalID: 1238788056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_109
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 238
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6137877e1d2174a9cb6473472dfcbd
+      internalID: 734194079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_110
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 224
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7294e779e94430488dac5c04bf35b26
+      internalID: 154761126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_111
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 224
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daa659f54f9f264caf0f11bb672e3df
+      internalID: -2078185705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_112
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 224
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d4960a5e898e446a03fe607dbd9a06
+      internalID: 1779038532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_113
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 224
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c224873dc4b91408b26d1053398401
+      internalID: -2040515346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_114
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 224
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e746e0b04099214286ec9839db93f57
+      internalID: 299873373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_115
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 224
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8405fdb38571d46b9ce66fc5f0eea6
+      internalID: -288830749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_116
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 224
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f16474823634741b11f1b28c6f9b91
+      internalID: -2142738209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_117
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 224
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5830a09db31beff47bbdebea75751d18
+      internalID: 373647126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_118
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 224
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc91fb3c08a5e924391651f79586a28d
+      internalID: -1661451305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_119
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 224
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90a5146b8ae99a49bcde56c3d349ced
+      internalID: -1244271606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_120
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 210
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511684fd11bef4c4096c086373be050a
+      internalID: 557599207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_121
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 210
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bb538da0239ed469f726a323bd48ac
+      internalID: 884734186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_122
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 210
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42411cda6ffcd7148a07a8c609e90c1e
+      internalID: -798982790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_123
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 210
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ef27d2bf461d8418e7c5283523d36c
+      internalID: 984473401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_124
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 210
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ffbf268537daa4da455521e5996a56
+      internalID: -345915074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_125
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 210
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be611cf65928c64aa4ca2b81b766266
+      internalID: -835194512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_126
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 210
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0719a3c9c33c4544b9f0eee85a2c777
+      internalID: -1412611517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_127
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 210
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044cd84daf82c83429e73d0b3530e568
+      internalID: -331323597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_128
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 210
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef946fc8d6a81542b81d3659ecd9f6e
+      internalID: 912456836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_129
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 210
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6553c1c20f90693408dc1465cc8ceb8e
+      internalID: 1194714770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_130
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 196
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a32cd016ca4144b8dbc71f441e4152
+      internalID: -546223742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_131
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 196
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1737c16a54da7c4bb02bfab3559a61a
+      internalID: -1979821537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_132
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 196
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105bebc3c6b0bbe478eae8630e3310d7
+      internalID: 1704424578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_133
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 196
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3289bf56968eb544dab57fc8a5740d1a
+      internalID: 611171429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_134
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 196
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ed8d019a045b142828b2a7e17e0d23
+      internalID: 1365860276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_135
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 196
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc2cfa36c35a3c4d90660774e60bd02
+      internalID: -1168980570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_136
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 196
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcc3d8bd31d06046b240e9ba3eedcca
+      internalID: 1710959189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_137
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 196
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2b5a3904311154fac1e5f07b6e6834
+      internalID: -1144121512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_138
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 196
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1035d8a8b91bb6c46abd80fb97509909
+      internalID: -226198495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_139
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 196
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cd9a3b3eea9f74f87775eda3c81cc9
+      internalID: -360945776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_140
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 182
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f20cdd845448fe4f9028a3333dc5202
+      internalID: 1689560404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_141
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 182
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11f956c975b93d44b84ed7bdeb4c620
+      internalID: -2043858894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_142
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 182
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74cac74d7cfa3c439ff6fed1c1d3aa8
+      internalID: 1419395418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_143
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 182
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d46664c0b467a45a7e493238f7bd56
+      internalID: 1267406801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_144
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 182
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a2e8a3f72d6854286979361b4ef4ad
+      internalID: -1577841349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_145
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 182
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9db30bc6deda24ca8cf4afda81bcf2
+      internalID: -1698708810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_146
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 182
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f18161c2d98e4b4189d967870c74b89
+      internalID: -1543094942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_147
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 182
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c672f84a51614dd47820b28814f5f08c
+      internalID: 1283501163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_148
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 182
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10de33fd138e5b24f81d7bdf29c8753c
+      internalID: 440462389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_149
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 182
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649c0caa01ffe484e97992ff84e99d38
+      internalID: 342374896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_150
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 168
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ad4a98515872340a7aef6861079f16
+      internalID: 874258933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_151
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 168
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624bc9db1f1bdfd45886407a1154b17b
+      internalID: -1244290417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_152
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 168
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979d892d0fddfc74594f8f49b918680c
+      internalID: 1387745519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_153
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 168
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dedf885deab5c4398ae0c199d78d46
+      internalID: -1997149303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_154
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 168
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ddf3b0514d3024fbf4968e73075154
+      internalID: 579888400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_155
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 168
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc3e551c52dc344184af14cd24683e7
+      internalID: -961108410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_156
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 168
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e7b4112011c694ca22516e14f255d9
+      internalID: 228455987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_157
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 168
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6d2f1865b3f7342b0183a2be11c1c3
+      internalID: 1304072156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_158
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 168
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fdd98704232184182c14a678149e05
+      internalID: -1839060439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_159
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 168
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061449404aaf50d459319288cc47078e
+      internalID: -861565151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_160
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 154
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fe7e10b075927438a400a4fceda305
+      internalID: 307899106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_161
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 154
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a51e1a6b29bc94d918501f363cc8cb
+      internalID: 170996292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_162
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 154
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316ddbc351b136f4588a647d92197fba
+      internalID: -1816951078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_163
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 154
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22f003fefa31e4459c0edf0ae5eb1ee
+      internalID: 1573700457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_164
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 154
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273d5b1c37390d94e98b0204093445be
+      internalID: -1966181585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_165
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 154
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb07234db72d4e6428c157389df19bc6
+      internalID: -795252377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_166
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 154
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af78f3c61dba496439c2f434c62076dc
+      internalID: 327159656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_167
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 154
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86135274b3f318b448a2350e2eaa9dea
+      internalID: 1536037589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_168
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 154
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7249b77425b032f468afc0b4146ea885
+      internalID: 549873462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_169
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 154
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbddc81854063364f8728c4262aadb72
+      internalID: 529699711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_170
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 140
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3f7e85fe0d2d947b8e9546b36094d7
+      internalID: -1238449792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_171
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 140
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846c29c543b81864b92e46cb136a1af2
+      internalID: 967886778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_172
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 140
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4b480996705944483aa9db6330660a
+      internalID: -1848565364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_173
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 140
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a90f5c04033d246ba139754d874ee6
+      internalID: -1239916289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_174
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 140
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76e81a4496082c46819202e2bca0874
+      internalID: 557490158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_175
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 140
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4a06fd5bf678745ba45823aaa41d20
+      internalID: 1877238545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_176
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 140
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6458e8340b2b65947846b225f64d7edc
+      internalID: 747008194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_177
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 140
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3588bfedb7e0d4a479729ab92991f12a
+      internalID: -1651983779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_178
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 140
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd93ca5ab2cbba747ab24a0c66ac8c03
+      internalID: 792879425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_179
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 140
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7007f0116418df442bc99922cc659256
+      internalID: -588285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_180
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 126
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db8b447fbc1e1047b9142e3d49d7dc7
+      internalID: -1094425314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_181
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 126
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f1f57361a98714598ac16a058f7125
+      internalID: 1070416084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_182
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 126
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486dbd03a3197f54692c1f96d5788ada
+      internalID: 1543223933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_183
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 126
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18719fe55a0782549868810653ce52e3
+      internalID: 1233266360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_184
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 126
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1aa50ac1d24da1438f4dc0c3c7607d4
+      internalID: -1150372981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_185
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 126
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced5d063874bcea46b9e0fa90e79a2e5
+      internalID: -1883258374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_186
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 126
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eab46a278cac21449c89ef988324ef6
+      internalID: 225347130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_187
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 126
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39b085e5b1ac0a41b6e8fb99a9abcd8
+      internalID: 957770970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_188
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 126
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc36a683eba487e42bcf7d77d6e2ae8d
+      internalID: -156853842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_189
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 126
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6640465c0f75e684a86bd9a58cfb2d68
+      internalID: 124952724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_190
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 112
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff40a1a61d106c4880b47fc5fe1b70c
+      internalID: -1658174245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_191
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 112
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f27b01d683464438759fc4c4431227
+      internalID: -986125830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_192
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 112
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e77d035bc7da141accb62215ca3617
+      internalID: 52850824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_193
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 112
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce4a8429c7d46449a7b5bc1954194a3
+      internalID: -1729877729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_194
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 112
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e7d6bced64b234c9ae4bcdcda9bf7c
+      internalID: -952465924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_195
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 112
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99588cab2b1f9584e8ec6efda19fb488
+      internalID: -1240054949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_196
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 112
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc3db5b9ed256d4890afb834ea25bc9
+      internalID: -236899981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_197
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 112
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003c672e35296634e8b91ecb21fbf888
+      internalID: 212960631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_198
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 112
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0d7b271e2250741b05e9d1de8de963
+      internalID: 508036603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_199
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 112
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78792bf9aeacdc4e8d409ecc03e3146
+      internalID: -470908832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_200
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 98
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a26e593b0ccd24d9383ca0ba184da5
+      internalID: 1516307621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_201
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 98
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0ca0da0f692934d835180eb9671794
+      internalID: -372645699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_202
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 98
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a6e205b28156a4ead902ade088d991
+      internalID: -124408971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_203
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 98
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5e66cc8b7fcf14cbef4bf8a47409f8
+      internalID: -1226815539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_204
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 98
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d9472afda893f46963b2ed26ac34ca
+      internalID: 1659058090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_205
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 98
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133a71bbb346fd94f8cce1a1c9b4aff4
+      internalID: 1362651793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_206
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 98
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46a0eaec82e0fb44a87f49a6d6e7058
+      internalID: -49827086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_207
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 98
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6039f35a97f7c914a97b034a99a1e180
+      internalID: 775859588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_208
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 98
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f0f8d0e9469c244bef2da0e257d1c3
+      internalID: 2055139052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_209
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 98
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76090bcf34bd3d4cad321adc417e341
+      internalID: -1000345988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_210
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 84
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc5b726d5d59334f9f2f2e9d75e2cbe
+      internalID: -2146461560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_211
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 84
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e887ba09e9e2444abe12651f92f000
+      internalID: 1216334203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_212
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 84
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2de721dc1df67f47b9c4adb58f7ca6d
+      internalID: 1595254104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_213
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 84
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683ff70b3c5dcfa4c9b930008c3f3a26
+      internalID: -576603271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_214
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 84
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e999943665d864e8ede2e89202f2ad
+      internalID: 50570128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_215
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 84
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f27d162c128b44fb06d9f558df6957
+      internalID: -1910673188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_216
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 84
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a4e41f4ba6a69498638c5feadf7997
+      internalID: -311913243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_217
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 84
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af2fee67b764f64db6acc676a068ca8
+      internalID: 329519998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_218
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 84
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83f8434ad2581f458c562b358d1c629
+      internalID: -2046330065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_219
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 84
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90714b1d4d6d6542ba824ced76b5f28
+      internalID: 1503070213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_220
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 70
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7798d552c69a76b4f8b5bf89739a1212
+      internalID: 2046577939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_221
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 70
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931a0058cc8b206408e20b2110aae8ab
+      internalID: -1232318960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_222
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 70
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa173899a10a334496895fd0e13b0ce
+      internalID: -1063779649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_223
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 70
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2f410eb6d8307488b6666c1b69b53d
+      internalID: -230468991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_224
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 70
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f8a28f3f830b14b8fec143312de26b
+      internalID: -1278585937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_225
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 70
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a48d17f9a11cd14198bac22698c1b20
+      internalID: -579953894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_226
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 70
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f8c07051748c84e8211328607b04cf
+      internalID: 1234072420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_227
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 70
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507672daebae07740b46da9d31631dc9
+      internalID: -2114135564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_228
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 70
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48a696af0e936b4d99c8905eb7cb63c
+      internalID: -1939954765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_229
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 70
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376ae56d586267744869bcf193ef7f23
+      internalID: 1714484847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_230
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 56
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e12cf60a0adda4da15eee61b2daeeb
+      internalID: 447345051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_231
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 56
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cf7f9bd99a94c4c9c2d207f334e097
+      internalID: 307199716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_232
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 56
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225b9ea275958f74880f6c0927dde373
+      internalID: -992555521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_233
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 56
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97528d15a1e8a24f8dbfb7a547e4151
+      internalID: 776823260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_234
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 56
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb7ebe6bfbebe94684342751d1057f0
+      internalID: -1067795007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_235
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 56
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc050d2cd2261f94abd186411ed35372
+      internalID: -1560975075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_236
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 56
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90cd595e109ae14a97e444c41bf5a6b
+      internalID: 117521209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_237
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 56
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948284904981d1946827abecaf0062f5
+      internalID: 2025670229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_238
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 56
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2a23e0ccf6264468562162080dca78
+      internalID: 1929648311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_239
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 56
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53b5b017ad388d47936be3e93243a6d
+      internalID: -2027877033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_240
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 42
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d31cd653b79084e8e2bcfe08295f55
+      internalID: 2120994083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_241
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 42
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1f7d2a3e60a6448a3e1a89a7506b2e
+      internalID: 815886933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_242
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 42
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69779a39c2404c43a920766a768e3ca
+      internalID: 1693307024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_243
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 42
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f713d2445c24bbc4698c99ac5f9fab10
+      internalID: -464080387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_244
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 42
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0420fd5a8d2f8143a23a3d5f5948c0d
+      internalID: -523254458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_245
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 42
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f45fe231130004e9551610671147bb
+      internalID: 660744492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_246
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 42
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7566f641442a85b42a98cc213ee667a1
+      internalID: 1059393966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_247
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 42
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7274c1cca7fcb4687c6453bed5fa41
+      internalID: -847277558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_248
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 42
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997bb373c8a19d848ace58879c367444
+      internalID: 1450034736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_249
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 42
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97f362c1f3d58046bed358528dacb66
+      internalID: -689115585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_250
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 28
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a53bb64ce50d264fba927f0c7b031fd
+      internalID: -1892494981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_251
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 28
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db4a38fc272c6642b08bd09b05c9084
+      internalID: -1176219134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_252
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 28
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d23514b3918dec4aa887c4c62e3635e
+      internalID: -195421401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_253
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 28
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238202110a360ae43afa6996fb19c0ad
+      internalID: -246199886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_254
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 28
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f5d77a092914c46abdd408b4f4b890
+      internalID: 390951583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_255
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 28
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e77721e65ea5614e9b57b9399c2a204
+      internalID: 460065751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_256
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 28
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0dc7ceb00563b458bac3b33f51d573
+      internalID: -178344001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_257
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 28
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e853fda1151bbb47baf89e84752420a
+      internalID: 667747311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_258
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 28
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a7a819ea12afb40bfe982c586fc5cf
+      internalID: -1767669688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_259
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 28
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dade34d4b54d7a54584f1f9a73f45d72
+      internalID: 2098747156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_260
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 14
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e903809f4ff3f14880bd50204e8257f
+      internalID: 773212837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_261
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 14
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd2c0bc1757ac646afc0bccd13dd2db
+      internalID: 1586312590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_262
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 14
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703adbc5871f34749b46a3058a1916fd
+      internalID: -935146802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_263
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 14
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95c8147b48278f4faa35cb8c61025c9
+      internalID: -1648696185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_264
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 14
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ad759c5da567c4a8c1f897addf1335
+      internalID: 1763918924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_265
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 14
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea5db8f2beffe74fbd7d54078f8b26e
+      internalID: 1935882185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_266
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 14
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb757fd73c01ff14fab0d7c0245d8339
+      internalID: -1193834882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_267
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 14
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9585f6ae92d3e264a8b97f67ddf73b22
+      internalID: 1291315683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_268
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 14
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da2ead160f93e545b5367d3abd554c2
+      internalID: -716012420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_269
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 14
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59fe77a0bec9f9429caf52734b566ad
+      internalID: 962357842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_270
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c144f4301ce9d614fb01a8d5f3014c5e
+      internalID: 634577473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_271
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be38c7b2b94545c4793ae894b8c6c4c2
+      internalID: 424401500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_272
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7f9f386441d364888a850394b38c56
+      internalID: 926167627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_273
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d485b9f43e33254a830be48240b5f44
+      internalID: -786327983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_274
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82945e5de87e4984187d247a7cbcf4cb
+      internalID: 1216668996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_275
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce51553f202bb045afbf18c257aa2db
+      internalID: -425906819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_276
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca83914d8ea224d44a00f9ed97fb4a88
+      internalID: 1747665433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_277
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336331f030ec21648b8ad91a86755db4
+      internalID: 105590500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_278
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d65937bcbd88ef4f9c0bc1d2c1a4b40
+      internalID: -538286938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy cane for edges_279
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109c1bc324583a7488307f053106ca35
+      internalID: -1316645220
       vertices: []
       indices: 
       edges: []
@@ -141,7 +6000,286 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      candy cane for edges_0: -1113218243
+      candy cane for edges_0: -1505224784
+      candy cane for edges_1: 2097386457
+      candy cane for edges_10: -338645239
+      candy cane for edges_100: 710799010
+      candy cane for edges_101: -26861153
+      candy cane for edges_102: -1555938203
+      candy cane for edges_103: -1427418558
+      candy cane for edges_104: 86715497
+      candy cane for edges_105: -1383273247
+      candy cane for edges_106: -315797918
+      candy cane for edges_107: 369691500
+      candy cane for edges_108: 1238788056
+      candy cane for edges_109: 734194079
+      candy cane for edges_11: 709376374
+      candy cane for edges_110: 154761126
+      candy cane for edges_111: -2078185705
+      candy cane for edges_112: 1779038532
+      candy cane for edges_113: -2040515346
+      candy cane for edges_114: 299873373
+      candy cane for edges_115: -288830749
+      candy cane for edges_116: -2142738209
+      candy cane for edges_117: 373647126
+      candy cane for edges_118: -1661451305
+      candy cane for edges_119: -1244271606
+      candy cane for edges_12: 804446946
+      candy cane for edges_120: 557599207
+      candy cane for edges_121: 884734186
+      candy cane for edges_122: -798982790
+      candy cane for edges_123: 984473401
+      candy cane for edges_124: -345915074
+      candy cane for edges_125: -835194512
+      candy cane for edges_126: -1412611517
+      candy cane for edges_127: -331323597
+      candy cane for edges_128: 912456836
+      candy cane for edges_129: 1194714770
+      candy cane for edges_13: 740669826
+      candy cane for edges_130: -546223742
+      candy cane for edges_131: -1979821537
+      candy cane for edges_132: 1704424578
+      candy cane for edges_133: 611171429
+      candy cane for edges_134: 1365860276
+      candy cane for edges_135: -1168980570
+      candy cane for edges_136: 1710959189
+      candy cane for edges_137: -1144121512
+      candy cane for edges_138: -226198495
+      candy cane for edges_139: -360945776
+      candy cane for edges_14: -1460274880
+      candy cane for edges_140: 1689560404
+      candy cane for edges_141: -2043858894
+      candy cane for edges_142: 1419395418
+      candy cane for edges_143: 1267406801
+      candy cane for edges_144: -1577841349
+      candy cane for edges_145: -1698708810
+      candy cane for edges_146: -1543094942
+      candy cane for edges_147: 1283501163
+      candy cane for edges_148: 440462389
+      candy cane for edges_149: 342374896
+      candy cane for edges_15: -2000455398
+      candy cane for edges_150: 874258933
+      candy cane for edges_151: -1244290417
+      candy cane for edges_152: 1387745519
+      candy cane for edges_153: -1997149303
+      candy cane for edges_154: 579888400
+      candy cane for edges_155: -961108410
+      candy cane for edges_156: 228455987
+      candy cane for edges_157: 1304072156
+      candy cane for edges_158: -1839060439
+      candy cane for edges_159: -861565151
+      candy cane for edges_16: 83443544
+      candy cane for edges_160: 307899106
+      candy cane for edges_161: 170996292
+      candy cane for edges_162: -1816951078
+      candy cane for edges_163: 1573700457
+      candy cane for edges_164: -1966181585
+      candy cane for edges_165: -795252377
+      candy cane for edges_166: 327159656
+      candy cane for edges_167: 1536037589
+      candy cane for edges_168: 549873462
+      candy cane for edges_169: 529699711
+      candy cane for edges_17: 178279082
+      candy cane for edges_170: -1238449792
+      candy cane for edges_171: 967886778
+      candy cane for edges_172: -1848565364
+      candy cane for edges_173: -1239916289
+      candy cane for edges_174: 557490158
+      candy cane for edges_175: 1877238545
+      candy cane for edges_176: 747008194
+      candy cane for edges_177: -1651983779
+      candy cane for edges_178: 792879425
+      candy cane for edges_179: -588285
+      candy cane for edges_18: 1876809396
+      candy cane for edges_180: -1094425314
+      candy cane for edges_181: 1070416084
+      candy cane for edges_182: 1543223933
+      candy cane for edges_183: 1233266360
+      candy cane for edges_184: -1150372981
+      candy cane for edges_185: -1883258374
+      candy cane for edges_186: 225347130
+      candy cane for edges_187: 957770970
+      candy cane for edges_188: -156853842
+      candy cane for edges_189: 124952724
+      candy cane for edges_19: 1481121045
+      candy cane for edges_190: -1658174245
+      candy cane for edges_191: -986125830
+      candy cane for edges_192: 52850824
+      candy cane for edges_193: -1729877729
+      candy cane for edges_194: -952465924
+      candy cane for edges_195: -1240054949
+      candy cane for edges_196: -236899981
+      candy cane for edges_197: 212960631
+      candy cane for edges_198: 508036603
+      candy cane for edges_199: -470908832
+      candy cane for edges_2: -1167851545
+      candy cane for edges_20: 1882852041
+      candy cane for edges_200: 1516307621
+      candy cane for edges_201: -372645699
+      candy cane for edges_202: -124408971
+      candy cane for edges_203: -1226815539
+      candy cane for edges_204: 1659058090
+      candy cane for edges_205: 1362651793
+      candy cane for edges_206: -49827086
+      candy cane for edges_207: 775859588
+      candy cane for edges_208: 2055139052
+      candy cane for edges_209: -1000345988
+      candy cane for edges_21: -1022152319
+      candy cane for edges_210: -2146461560
+      candy cane for edges_211: 1216334203
+      candy cane for edges_212: 1595254104
+      candy cane for edges_213: -576603271
+      candy cane for edges_214: 50570128
+      candy cane for edges_215: -1910673188
+      candy cane for edges_216: -311913243
+      candy cane for edges_217: 329519998
+      candy cane for edges_218: -2046330065
+      candy cane for edges_219: 1503070213
+      candy cane for edges_22: -1999793264
+      candy cane for edges_220: 2046577939
+      candy cane for edges_221: -1232318960
+      candy cane for edges_222: -1063779649
+      candy cane for edges_223: -230468991
+      candy cane for edges_224: -1278585937
+      candy cane for edges_225: -579953894
+      candy cane for edges_226: 1234072420
+      candy cane for edges_227: -2114135564
+      candy cane for edges_228: -1939954765
+      candy cane for edges_229: 1714484847
+      candy cane for edges_23: -1040890169
+      candy cane for edges_230: 447345051
+      candy cane for edges_231: 307199716
+      candy cane for edges_232: -992555521
+      candy cane for edges_233: 776823260
+      candy cane for edges_234: -1067795007
+      candy cane for edges_235: -1560975075
+      candy cane for edges_236: 117521209
+      candy cane for edges_237: 2025670229
+      candy cane for edges_238: 1929648311
+      candy cane for edges_239: -2027877033
+      candy cane for edges_24: -283683500
+      candy cane for edges_240: 2120994083
+      candy cane for edges_241: 815886933
+      candy cane for edges_242: 1693307024
+      candy cane for edges_243: -464080387
+      candy cane for edges_244: -523254458
+      candy cane for edges_245: 660744492
+      candy cane for edges_246: 1059393966
+      candy cane for edges_247: -847277558
+      candy cane for edges_248: 1450034736
+      candy cane for edges_249: -689115585
+      candy cane for edges_25: 1651350687
+      candy cane for edges_250: -1892494981
+      candy cane for edges_251: -1176219134
+      candy cane for edges_252: -195421401
+      candy cane for edges_253: -246199886
+      candy cane for edges_254: 390951583
+      candy cane for edges_255: 460065751
+      candy cane for edges_256: -178344001
+      candy cane for edges_257: 667747311
+      candy cane for edges_258: -1767669688
+      candy cane for edges_259: 2098747156
+      candy cane for edges_26: -561203852
+      candy cane for edges_260: 773212837
+      candy cane for edges_261: 1586312590
+      candy cane for edges_262: -935146802
+      candy cane for edges_263: -1648696185
+      candy cane for edges_264: 1763918924
+      candy cane for edges_265: 1935882185
+      candy cane for edges_266: -1193834882
+      candy cane for edges_267: 1291315683
+      candy cane for edges_268: -716012420
+      candy cane for edges_269: 962357842
+      candy cane for edges_27: 329418967
+      candy cane for edges_270: 634577473
+      candy cane for edges_271: 424401500
+      candy cane for edges_272: 926167627
+      candy cane for edges_273: -786327983
+      candy cane for edges_274: 1216668996
+      candy cane for edges_275: -425906819
+      candy cane for edges_276: 1747665433
+      candy cane for edges_277: 105590500
+      candy cane for edges_278: -538286938
+      candy cane for edges_279: -1316645220
+      candy cane for edges_28: -1524277720
+      candy cane for edges_29: -1746126794
+      candy cane for edges_3: -691963364
+      candy cane for edges_30: -356488458
+      candy cane for edges_31: 1142133813
+      candy cane for edges_32: -2059605329
+      candy cane for edges_33: -313135452
+      candy cane for edges_34: 345353652
+      candy cane for edges_35: -1632896195
+      candy cane for edges_36: -1934418987
+      candy cane for edges_37: -210446124
+      candy cane for edges_38: 777487430
+      candy cane for edges_39: -273530026
+      candy cane for edges_4: 294656440
+      candy cane for edges_40: -1857437695
+      candy cane for edges_41: 190165569
+      candy cane for edges_42: 230970530
+      candy cane for edges_43: -1661668396
+      candy cane for edges_44: 1989868352
+      candy cane for edges_45: -744808550
+      candy cane for edges_46: -1734815023
+      candy cane for edges_47: -940623707
+      candy cane for edges_48: 1397297500
+      candy cane for edges_49: -129485285
+      candy cane for edges_5: 269936506
+      candy cane for edges_50: 720460881
+      candy cane for edges_51: -345420932
+      candy cane for edges_52: 1751045712
+      candy cane for edges_53: -755532735
+      candy cane for edges_54: -1130599338
+      candy cane for edges_55: -248073039
+      candy cane for edges_56: -1020443786
+      candy cane for edges_57: -1659531767
+      candy cane for edges_58: -1350864131
+      candy cane for edges_59: -691576652
+      candy cane for edges_6: 1231954056
+      candy cane for edges_60: -2056761922
+      candy cane for edges_61: 1583558710
+      candy cane for edges_62: -1977238915
+      candy cane for edges_63: 1923170688
+      candy cane for edges_64: 151256344
+      candy cane for edges_65: -1904218406
+      candy cane for edges_66: 571233666
+      candy cane for edges_67: -1736533727
+      candy cane for edges_68: -1771097811
+      candy cane for edges_69: -770615719
+      candy cane for edges_7: 1172530115
+      candy cane for edges_70: -1057906317
+      candy cane for edges_71: 1975639565
+      candy cane for edges_72: -1561146942
+      candy cane for edges_73: 1799633224
+      candy cane for edges_74: 453066990
+      candy cane for edges_75: -1226423983
+      candy cane for edges_76: 1351664947
+      candy cane for edges_77: 510931868
+      candy cane for edges_78: -2137775979
+      candy cane for edges_79: 225590024
+      candy cane for edges_8: -1036018774
+      candy cane for edges_80: 1999543803
+      candy cane for edges_81: 670998185
+      candy cane for edges_82: -904164305
+      candy cane for edges_83: -1531217184
+      candy cane for edges_84: 59447570
+      candy cane for edges_85: 184810400
+      candy cane for edges_86: -636483223
+      candy cane for edges_87: -667979522
+      candy cane for edges_88: -1610174496
+      candy cane for edges_89: 1027553023
+      candy cane for edges_9: 1415711520
+      candy cane for edges_90: -1667164970
+      candy cane for edges_91: 1265028832
+      candy cane for edges_92: -16053353
+      candy cane for edges_93: -938492483
+      candy cane for edges_94: 1663829223
+      candy cane for edges_95: 1407855501
+      candy cane for edges_96: 53197383
+      candy cane for edges_97: -1731148792
+      candy cane for edges_98: 1828874331
+      candy cane for edges_99: -984194298
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
