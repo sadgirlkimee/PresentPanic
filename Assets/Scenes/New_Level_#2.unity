@@ -5847,7 +5847,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f03344bc134347b44bf7620f063da916, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2
+  speed: 1.5
   speedMultiplier: 1
   initialDirection: {x: 0, y: 0}
   obstacleLayer:
@@ -5912,9 +5912,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.046655707, y: 0.08240558}
   serializedVersion: 2
-  m_Radius: 0.5
+  m_Radius: 0.3891929
 --- !u!50 &1469729808
 Rigidbody2D:
   serializedVersion: 4
