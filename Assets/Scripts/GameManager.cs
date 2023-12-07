@@ -1,5 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
+using System.Net.Mime;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -8,6 +10,7 @@ public class GameManager : MonoBehaviour
     public Transform pellets;
     public Text scoreText;
     public Text livesText;
+    public Text GameOverText;
 
     public int ghostMultiplier { get; private set; } = 1;
 
@@ -35,6 +38,8 @@ public class GameManager : MonoBehaviour
 
      private void NewRound()
     {
+        GameOverText.enabled = false;
+
         foreach(Transform pellet in this.pellets){
             pellet.gameObject.SetActive(true);
         }
@@ -43,6 +48,7 @@ public class GameManager : MonoBehaviour
 
     private void ResetState()
     {
+        //
         ResetGhostMultiplier();
 
          for (int i = 0; i < this.ghosts.Length; i++){
@@ -54,6 +60,8 @@ public class GameManager : MonoBehaviour
 
     private void GameOver()
     {
+         GameOverText.enabled = true;
+    
          for (int i = 0; i < this.ghosts.Length; i++){
             this.ghosts[i].gameObject.SetActive(false);
         }
@@ -100,6 +108,7 @@ public class GameManager : MonoBehaviour
         if(!HasRemainingPellets())
         {
             this.pacman.gameObject.SetActive(false);
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
             Invoke(nameof(NewRound), 3.0f);
         }
     }
