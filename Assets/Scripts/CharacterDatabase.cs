@@ -2,9 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-#if UNITY_EDITOR
-using UnityEditor;
-
 namespace YourNamespace
 {
     [CreateAssetMenu(fileName = "CharacterDatabase", menuName = "Custom/Character Database", order = 1)]
@@ -23,4 +20,3 @@ namespace YourNamespace
         }
     }
 }
-#endif

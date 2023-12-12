@@ -14,44 +14,85 @@ public class GameManager : MonoBehaviour
 
     public int ghostMultiplier { get; private set; } = 1;
 
-    public int score {get; private set; }
-    public int lives {get; private set; }
+    public int score { get; private set; }
+    public int lives { get; private set; }
 
-    public void Start()
+
+    private void Start()
     {
+        LoadScore();
         NewGame();
     }
 
+
     private void Update()
     {
-        if(this.lives <= 0 && Input.anyKeyDown){
+        if (lives <= 0 && Input.anyKeyDown)
+        {
+            SaveScore();
             NewGame();
+        }
+        else if (!HasRemainingPellets())
+        {
+            pacman.gameObject.SetActive(false);
+            SaveScore();
+            LoadNextLevel();
+            // You can choose to uncomment the following line if you want a delay before loading the next level
+            // Invoke(nameof(NewRound), 3.0f);
+        }
+    }
+
+    private void LoadNextLevel()
+    {
+        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+        int nextSceneIndex = currentSceneIndex + 1;
+
+        if (nextSceneIndex < SceneManager.sceneCountInBuildSettings)
+        {
+            SceneManager.LoadScene(nextSceneIndex);
+        }
+        else
+        {
+            // If there is no next scene, you can reload the current scene
+            SceneManager.LoadScene(currentSceneIndex);
         }
     }
 
     private void NewGame()
     {
-        SetScore(0);
         SetLives(3);
         NewRound();
     }
 
-     private void NewRound()
+    private void NewRound()
     {
         GameOverText.enabled = false;
 
-        foreach(Transform pellet in this.pellets){
+        foreach (Transform pellet in this.pellets)
+        {
             pellet.gameObject.SetActive(true);
         }
         ResetState();
     }
 
+    private void SaveScore()
+    {
+        PlayerPrefs.SetInt("Score", score);
+        PlayerPrefs.Save();
+    }
+
+    private void LoadScore()
+    {
+        score = PlayerPrefs.GetInt("Score", 0);
+        SetScore(score);
+    }
     private void ResetState()
     {
         //
         ResetGhostMultiplier();
 
-         for (int i = 0; i < this.ghosts.Length; i++){
+        for (int i = 0; i < this.ghosts.Length; i++)
+        {
             this.ghosts[i].ResetState();
         }
 
@@ -60,9 +101,10 @@ public class GameManager : MonoBehaviour
 
     private void GameOver()
     {
-         GameOverText.enabled = true;
-    
-         for (int i = 0; i < this.ghosts.Length; i++){
+        GameOverText.enabled = true;
+
+        for (int i = 0; i < this.ghosts.Length; i++)
+        {
             this.ghosts[i].gameObject.SetActive(false);
         }
         this.pacman.gameObject.SetActive(false);
@@ -80,9 +122,9 @@ public class GameManager : MonoBehaviour
         livesText.text = "x" + lives.ToString();
     }
 
-    public void GhostEaten( Ghost ghost)
+    public void GhostEaten(Ghost ghost)
     {
-        int points  = ghost.points * this.ghostMultiplier;
+        int points = ghost.points * this.ghostMultiplier;
         SetScore(this.score + points);
         this.ghostMultiplier++;
     }
@@ -93,9 +135,12 @@ public class GameManager : MonoBehaviour
 
         SetLives(this.lives - 1);
 
-        if(this.lives > 0){
-            Invoke(nameof(ResetState), 3.0f );
-        }else {
+        if (this.lives > 0)
+        {
+            Invoke(nameof(ResetState), 3.0f);
+        }
+        else
+        {
             GameOver();
         }
     }
@@ -105,17 +150,20 @@ public class GameManager : MonoBehaviour
         pellet.gameObject.SetActive(false);
 
         SetScore(this.score + pellet.points);
-        if(!HasRemainingPellets())
+        if (!HasRemainingPellets())
         {
             this.pacman.gameObject.SetActive(false);
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-            Invoke(nameof(NewRound), 3.0f);
+            LoadNextLevel();
+            //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            //Invoke(nameof(NewRound), 3.0f);
         }
     }
 
-    public void PowerPelletEaten(PowerPellet pellet){
-        
-        for(int i = 0; i < this.ghosts.Length; i++){
+    public void PowerPelletEaten(PowerPellet pellet)
+    {
+
+        for (int i = 0; i < this.ghosts.Length; i++)
+        {
             this.ghosts[i].frightened.Enable(pellet.duration);
         }
 
@@ -126,9 +174,10 @@ public class GameManager : MonoBehaviour
 
     private bool HasRemainingPellets()
     {
-        foreach(Transform pellet in this.pellets)
+        foreach (Transform pellet in this.pellets)
         {
-            if( pellet.gameObject.activeSelf){
+            if (pellet.gameObject.activeSelf)
+            {
                 return true;
             }
         }
